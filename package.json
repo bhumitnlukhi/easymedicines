@@ -5,10 +5,12 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "build:pages": "GITHUB_PAGES=true next build && touch out/.nojekyll",
     "start": "next start",
     "lint": "next lint",
     "test": "jest",
     "import-catalog": "tsx scripts/import-spreadsheet.ts",
+    "enrich-catalog": "python3 scripts/research-enrich-catalog.py",
     "validate-catalog": "tsx scripts/validate-catalog.ts"
   },
   "dependencies": {

@@ -1,65 +1,58 @@
 [
   {
-    "id": "dermatology-skin-care",
-    "slug": "dermatology-skin-care",
-    "name": "Dermatology & Skin Care",
-    "description": "Browse genuine dermatology & skin care sourced from verified Indian pharmaceutical manufacturers.",
-    "iconName": "Sparkles",
-    "itemCount": 10,
-    "imageUrl": "https://images.unsplash.com/photo-1603398938378-e54eab446dde?w=600&auto=format&fit=crop&q=80"
+    "id": "mens-health-vitality",
+    "slug": "mens-health-vitality",
+    "name": "Men's Health & Vitality",
+    "description": "Browse men's health & vitality from the EasyMeds researched catalog.",
+    "iconName": "Pill",
+    "itemCount": 143
   },
   {
     "id": "prescription-medicines",
     "slug": "prescription-medicines",
     "name": "Prescription Medicines",
-    "description": "Browse genuine prescription medicines sourced from verified Indian pharmaceutical manufacturers.",
-    "iconName": "FileText",
-    "itemCount": 138,
-    "imageUrl": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80"
-  },
-  {
-    "id": "mens-health-vitality",
-    "slug": "mens-health-vitality",
-    "name": "Men's Health & Vitality",
-    "description": "Browse genuine men's health & vitality sourced from verified Indian pharmaceutical manufacturers.",
-    "iconName": "HeartPulse",
-    "itemCount": 137,
-    "imageUrl": "https://images.unsplash.com/photo-1550572017-edd951aa8f72?w=600&auto=format&fit=crop&q=80"
+    "description": "Browse prescription medicines from the EasyMeds researched catalog.",
+    "iconName": "Pill",
+    "itemCount": 127
   },
   {
     "id": "anti-infectives-antibiotics",
     "slug": "anti-infectives-antibiotics",
     "name": "Anti-Infectives & Antibiotics",
-    "description": "Browse genuine anti-infectives & antibiotics sourced from verified Indian pharmaceutical manufacturers.",
-    "iconName": "ShieldPlus",
-    "itemCount": 41,
-    "imageUrl": "https://images.unsplash.com/photo-1471864190281-a93a3070b6de?w=600&auto=format&fit=crop&q=80"
+    "description": "Browse anti-infectives & antibiotics from the EasyMeds researched catalog.",
+    "iconName": "Pill",
+    "itemCount": 45
   },
   {
     "id": "womens-health-fertility",
     "slug": "womens-health-fertility",
     "name": "Women's Health & Fertility",
-    "description": "Browse genuine women's health & fertility sourced from verified Indian pharmaceutical manufacturers.",
-    "iconName": "HeartPulse",
-    "itemCount": 18,
-    "imageUrl": "https://images.unsplash.com/photo-1577401239170-897942555fb3?w=600&auto=format&fit=crop&q=80"
+    "description": "Browse women's health & fertility from the EasyMeds researched catalog.",
+    "iconName": "Pill",
+    "itemCount": 18
+  },
+  {
+    "id": "dermatology-skin-care",
+    "slug": "dermatology-skin-care",
+    "name": "Dermatology & Skin Care",
+    "description": "Browse dermatology & skin care from the EasyMeds researched catalog.",
+    "iconName": "Pill",
+    "itemCount": 10
   },
   {
     "id": "respiratory-inhalers",
     "slug": "respiratory-inhalers",
     "name": "Respiratory & Inhalers",
-    "description": "Browse genuine respiratory & inhalers sourced from verified Indian pharmaceutical manufacturers.",
-    "iconName": "Activity",
-    "itemCount": 5,
-    "imageUrl": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=600&auto=format&fit=crop&q=80"
+    "description": "Browse respiratory & inhalers from the EasyMeds researched catalog.",
+    "iconName": "Pill",
+    "itemCount": 5
   },
   {
     "id": "over-the-counter-otc",
     "slug": "over-the-counter-otc",
     "name": "Over the Counter (OTC)",
-    "description": "Browse genuine over the counter (otc) sourced from verified Indian pharmaceutical manufacturers.",
+    "description": "Browse over the counter (otc) from the EasyMeds researched catalog.",
     "iconName": "Pill",
-    "itemCount": 3,
-    "imageUrl": "https://gdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/M-aa2nqQ-y-dolo_650_tablet_15s_35281_0_3.jpg"
+    "itemCount": 4
   }
 ]

@@ -266,7 +266,7 @@ export function Header() {
               onClick={() => setIsMobileMenuOpen(false)}
               className="px-3 py-2 rounded-lg text-sm font-medium text-text-main hover:bg-surface-subtle"
             >
-              Men's Health & Vitality
+              Men&apos;s Health & Vitality
             </Link>
             <Link
               href="/categories/anti-infectives-antibiotics"
@@ -280,7 +280,7 @@ export function Header() {
               onClick={() => setIsMobileMenuOpen(false)}
               className="px-3 py-2 rounded-lg text-sm font-medium text-text-main hover:bg-surface-subtle"
             >
-              Women's Health & Fertility
+              Women&apos;s Health & Fertility
             </Link>
             <Link
               href="/categories/dermatology-skin-care"
