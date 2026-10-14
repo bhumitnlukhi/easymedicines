@@ -1,0 +1,85 @@
+{
+  "dolo": {
+    "status": "fail",
+    "images": []
+  },
+  "dolo2": {
+    "status": "ok",
+    "count": 28,
+    "images": [
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/_bb11EVf3G-liver.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/RZ0FXyRkPk-kidney.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/1nnlvOd7kw-allergy.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/PRIKAxCuWd-alcohol.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/71LqQkIee3-link-to.webp",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/MSxktLMRNV-headache.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/CxsDCZXIWO-pregnancy.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/LqwqcKnBd5-breastfeeding.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/sHdIyE82G--use_in_geriatrics.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/-0kBfXrl6m-use_in_pediatrics.jpg"
+    ],
+    "url": "https://www.netmeds.com/product/dolo-650-tablet-15s-lui1wb-8231049"
+  },
+  "asthalin": {
+    "status": "ok",
+    "count": 29,
+    "images": [
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/vRbqEVDJBg-lungs.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/LO2IMIJIkE-allergy.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/dI9OVRGMyF-link-to.webp",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/f5saiNQwOY-dry_mouth.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/qnslypfe4o-pregnancy.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/AZR3c79SXQ-breastfeeding.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/vIJBrez5F2-heart_disease.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/MPNtqhtfAD-Dr_Rajni__12582.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/0pF8qrQRCC-use_in_pediatrics.jpg",
+      "https://cdn.pixelbin.io/v2/catalog-cloud/ccprod/original/products/assets/item/free/original/AhcjsRgV_k-use_in_geriatrics.jpg"
+    ],
+    "url": "https://www.netmeds.com/prescriptions/asthalin-inhaler-200md"
+  },
+  "lasix": {
+    "status": "fail",
+    "images": []
+  },
+  "caverta": {
+    "status": "fail",
+    "images": []
+  },
+  "paracip": {
+    "status": "fail",
+    "images": []
+  },
+  "omnacortil": {
+    "status": "fail",
+    "images": []
+  },
+  "apollo_dolo": {
+    "status": "ok",
+    "count": 19,
+    "images": [
+      "https://images.apollo247.in/pub/media/catalog/product/A/Q/AQU0465_1.jpg",
+      "https://images.apollo247.in/pub/media/catalog/product/D/O/DOL0026_1_1.jpg",
+      "https://images.apollo247.in/pub/media/catalog/product/P/A/PAC0003_1_1.jpg",
+      "https://images.apollo247.in/pub/media/catalog/product/D/O/DOL0026_1_1.jpg\\",
+      "https://images.apollo247.in/pub/media/catalog/product/s/k/sku__mal0026.jpg",
+      "https://images.apollo247.in/pub/media/catalog/product/Z/A/ZAN0011_1-AUG23_1.jpg",
+      "https://images.apollo247.in/images/medicine/after-for-children-below-12years.png",
+      "https://images.apollo247.in/videos/PARACETAMOL_TABLET_DOL0026_Dolo-650_Tablet.mp4/ik-thumbnail.jpg",
+      "https://images.apollo247.in/doctors/noimagefemale.png",
+      "https://images.apollo247.in/doctors/noimagefemale.png\\"
+    ],
+    "url": "https://www.apollopharmacy.in/otc/dolo-650mg-tablet-15-s"
+  },
+  "pharmeasy_dolo": {
+    "status": "fail",
+    "images": []
+  },
+  "wiki_paracetamol": {
+    "status": "ok",
+    "count": 1,
+    "images": [
+      "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Paracetamol-skeletal.svg/1280px-Paracetamol-skeletal.svg.png"
+    ],
+    "url": "https://en.wikipedia.org/wiki/Paracetamol"
+  }
+}

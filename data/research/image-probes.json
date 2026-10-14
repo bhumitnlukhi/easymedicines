@@ -1,0 +1,92 @@
+{
+  "dolo-650": {
+    "url": "https://www.1mg.com/drugs/dolo-650-tablet-74467",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "asthalin-inhaler": {
+    "url": "https://www.1mg.com/drugs/asthalin-100mcg-inhaler-63967",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "lasix-40": {
+    "url": "https://www.1mg.com/drugs/lasix-40mg-tablet-338859",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "zovirax-400": {
+    "url": "https://www.1mg.com/drugs/zovirax-400-tablet-118434",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "caverta-100": {
+    "url": "https://www.1mg.com/drugs/caverta-100-tablet-69628",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "modalert-200": {
+    "url": "https://www.1mg.com/drugs/modalert-200-tablet-165443",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "waklert-150": {
+    "url": "https://www.1mg.com/drugs/waklert-150-tablet-165454",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "omnacortil-40": {
+    "url": "https://www.1mg.com/drugs/omnacortil-40-tablet-dt-152910",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "sustanon-250": {
+    "url": "https://www.1mg.com/drugs/sustanon-250-injection-145953",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "careprost": {
+    "url": "https://www.1mg.com/drugs/careprost-eye-drop-163343",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "paracip-650": {
+    "url": "https://www.1mg.com/drugs/paracip-650-tablet-52403",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "budecort": {
+    "url": "https://www.1mg.com/drugs/budecort-0-5mg-respules-2ml-63955",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "premarin": {
+    "url": "https://www.1mg.com/drugs/premarin-0-625mg-tablet-153027",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "cernos-gel": {
+    "url": "https://www.1mg.com/drugs/cernos-gel-145941",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "orligal": {
+    "url": "https://www.1mg.com/drugs/orligal-120mg-capsule-167370",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "axepta-60": {
+    "url": "https://www.1mg.com/drugs/axepta-60mg-tablet-325592",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "frusenex-100": {
+    "url": "https://www.1mg.com/drugs/frusenex-100-tablet-336819",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  },
+  "amlode-10": {
+    "url": "https://www.1mg.com/drugs/amlode-10-tablet-116750",
+    "images": [],
+    "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
+  }
+}

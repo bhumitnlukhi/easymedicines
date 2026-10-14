@@ -1,0 +1,11 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="400" rx="32" fill="#F0F9F5"/>
+  <path d="M120 100L140 70H260L280 100V300C280 311.046 271.046 320 260 320H140C128.954 320 120 311.046 120 300V100Z" fill="#168A63" stroke="#0D533B" stroke-width="4"/>
+  <rect x="140" y="110" width="120" height="150" rx="12" fill="white"/>
+  <path d="M140 170H260V260H140V170Z" fill="#E7F7EF"/>
+  <circle cx="200" cy="140" r="16" fill="#168A63"/>
+  <path d="M195 140L200 135L205 140" stroke="white" stroke-width="2"/>
+  <rect x="160" y="190" width="80" height="10" rx="5" fill="#5EC292"/>
+  <rect x="170" y="210" width="60" height="8" rx="4" fill="#96DCB8"/>
+  <text x="200" y="350" text-anchor="middle" font-family="system-ui, sans-serif" font-size="12" font-weight="bold" fill="#6A7771" letter-spacing="1">ORAL JELLY SACHET</text>
+</svg>

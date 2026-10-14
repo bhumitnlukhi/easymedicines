@@ -1,0 +1,1579 @@
+{
+  "timestamp": "2026-10-14T13:29:52.392Z",
+  "sourceFile": "data/source-catalog.csv",
+  "totalRows": 352,
+  "validProducts": 352,
+  "duplicateRows": [],
+  "missingRequiredFields": [
+    {
+      "row": 2,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 7,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 8,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 9,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 10,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 14,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 15,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 16,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 17,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 18,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 19,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 20,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 21,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 33,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 48,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 49,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 50,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 51,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 56,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 57,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 58,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 59,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 62,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 63,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 64,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 65,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 66,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 67,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 68,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 69,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 70,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 71,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 72,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 73,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 74,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 75,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 76,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 80,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 81,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 83,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 84,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 85,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 86,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 87,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 88,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 89,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 90,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 91,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 92,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 93,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 94,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 95,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 96,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 97,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 98,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 99,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 100,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 101,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 102,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 103,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 104,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 105,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 106,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 107,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 108,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 109,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 110,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 111,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 112,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 113,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 114,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 115,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 116,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 117,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 118,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 119,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 120,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 121,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 131,
+      "missing": [
+        "Price missing or non-numeric (original value: \"z\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 132,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 133,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 134,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 135,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 136,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 137,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 138,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 139,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 140,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 141,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 142,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 147,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 148,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 149,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 150,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 151,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 152,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 153,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 154,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 155,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 156,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 157,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 158,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 159,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 160,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 161,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 168,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 170,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 183,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 184,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 186,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 192,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 193,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 194,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 195,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 197,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 203,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 204,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 205,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 206,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 207,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 208,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 209,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 210,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 211,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 212,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 213,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 214,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 215,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 216,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 217,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 218,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 219,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 223,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 225,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 227,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 228,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 229,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 230,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 231,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 232,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 233,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 234,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 235,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 236,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 237,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 238,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 239,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 240,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 241,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 242,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 243,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 244,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 245,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 246,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 247,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 248,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 249,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 250,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 251,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 252,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 253,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 254,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 255,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 256,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 257,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 258,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 259,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 260,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 261,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 262,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 263,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 264,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 265,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 266,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 267,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 268,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 269,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 270,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 271,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 272,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 273,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 274,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 275,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 276,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 277,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 278,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 279,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 280,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 281,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 282,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 283,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 284,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 285,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 286,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 287,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 288,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 289,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 290,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 291,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 292,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 293,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 294,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 295,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 296,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 297,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 298,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 299,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 300,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 301,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 302,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 303,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 304,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 305,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 306,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 307,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 308,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 309,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 310,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 311,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 312,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 313,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 314,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 315,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 316,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 317,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 318,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 319,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 320,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 321,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 322,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 323,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 324,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 325,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 326,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 327,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 328,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 329,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 330,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 331,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 332,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 333,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 334,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 335,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 336,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 337,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 338,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 339,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 340,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 341,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 342,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 343,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 344,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 345,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 346,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 347,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 348,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 349,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 350,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 351,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 352,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    },
+    {
+      "row": 353,
+      "missing": [
+        "Price missing or non-numeric (original value: \"\"). Preserved raw value; displayed as Price on Request."
+      ]
+    }
+  ],
+  "ambiguousMatches": [],
+  "missingImages": [],
+  "prescriptionReviewRequired": [],
+  "priceDiscrepancies": []
+}

@@ -1,0 +1,2127 @@
+{
+  "sildenafil": {
+    "genericName": "Sildenafil Citrate",
+    "activeIngredients": [
+      "Sildenafil Citrate"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Men's Health & Vitality",
+    "description": "Sildenafil citrate is a PDE5 inhibitor used under medical supervision to support erectile function by improving blood flow during sexual stimulation.",
+    "uses": [
+      "Erectile dysfunction in adult men (prescription use)"
+    ],
+    "precautions": [
+      "Prescription required",
+      "Do not use with nitrates or recreational poppers",
+      "Seek urgent care for erection lasting over 4 hours"
+    ],
+    "storage": "Store below 30\u00b0C in a dry place, protected from moisture.",
+    "sources": [
+      "Standard PDE5 inhibitor labeling",
+      "Reputable pharmacy monographs"
+    ]
+  },
+  "tadalafil": {
+    "genericName": "Tadalafil",
+    "activeIngredients": [
+      "Tadalafil"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Men's Health & Vitality",
+    "description": "Tadalafil is a long-acting PDE5 inhibitor prescribed for erectile dysfunction and, in some regimens, benign prostatic hyperplasia-related urinary symptoms.",
+    "uses": [
+      "Erectile dysfunction",
+      "Selected BPH-related urinary symptoms when prescribed"
+    ],
+    "precautions": [
+      "Prescription required",
+      "Contraindicated with nitrate medicines",
+      "May cause headache, flushing, or back pain"
+    ],
+    "storage": "Store below 30\u00b0C away from excess heat and moisture.",
+    "sources": [
+      "Standard tadalafil prescribing information"
+    ]
+  },
+  "vardenafil": {
+    "genericName": "Vardenafil",
+    "activeIngredients": [
+      "Vardenafil"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Men's Health & Vitality",
+    "description": "Vardenafil is a PDE5 inhibitor used to treat erectile dysfunction by enhancing nitric oxide\u2013mediated blood flow when sexually aroused.",
+    "uses": [
+      "Erectile dysfunction in adult men"
+    ],
+    "precautions": [
+      "Prescription required",
+      "Avoid nitrate co-administration",
+      "Caution with cardiovascular disease"
+    ],
+    "storage": "Store in a cool, dry place below 30\u00b0C.",
+    "sources": [
+      "Standard vardenafil labeling"
+    ]
+  },
+  "avanafil": {
+    "genericName": "Avanafil",
+    "activeIngredients": [
+      "Avanafil"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Men's Health & Vitality",
+    "description": "Avanafil is a selective PDE5 inhibitor prescribed for erectile dysfunction, generally noted for a relatively rapid onset when taken as directed.",
+    "uses": [
+      "Erectile dysfunction"
+    ],
+    "precautions": [
+      "Prescription required",
+      "Do not combine with nitrates"
+    ],
+    "storage": "Store below 30\u00b0C protected from moisture.",
+    "sources": [
+      "Avanafil product information"
+    ]
+  },
+  "dapoxetine": {
+    "genericName": "Dapoxetine",
+    "activeIngredients": [
+      "Dapoxetine Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Men's Health & Vitality",
+    "description": "Dapoxetine is a short-acting SSRI specifically indicated for premature ejaculation in adult men when prescribed by a clinician.",
+    "uses": [
+      "Premature ejaculation (selected adult men)"
+    ],
+    "precautions": [
+      "Prescription required",
+      "May cause nausea, dizziness, or syncope",
+      "Not for recreational use"
+    ],
+    "storage": "Store below 30\u00b0C in original packaging.",
+    "sources": [
+      "Dapoxetine prescribing information"
+    ]
+  },
+  "sildenafil_dapoxetine": {
+    "genericName": "Sildenafil Citrate + Dapoxetine",
+    "activeIngredients": [
+      "Sildenafil Citrate",
+      "Dapoxetine Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Men's Health & Vitality",
+    "description": "Fixed-dose combination of a PDE5 inhibitor with dapoxetine, used when a clinician co-manages erectile dysfunction and premature ejaculation.",
+    "uses": [
+      "Combined erectile dysfunction and premature ejaculation under specialist advice"
+    ],
+    "precautions": [
+      "Prescription required",
+      "Contraindicated with nitrates",
+      "Higher side-effect burden than single agents"
+    ],
+    "storage": "Store below 30\u00b0C protected from moisture.",
+    "sources": [
+      "Combination PDE5/dapoxetine pharmacy listings"
+    ]
+  },
+  "tadalafil_dapoxetine": {
+    "genericName": "Tadalafil + Dapoxetine",
+    "activeIngredients": [
+      "Tadalafil",
+      "Dapoxetine Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Men's Health & Vitality",
+    "description": "Combination tablet pairing long-acting tadalafil with dapoxetine for selected men with both erectile dysfunction and premature ejaculation.",
+    "uses": [
+      "Coexisting ED and premature ejaculation when prescribed"
+    ],
+    "precautions": [
+      "Prescription required",
+      "Avoid nitrates",
+      "Medical screening recommended"
+    ],
+    "storage": "Store in a cool dry place below 30\u00b0C.",
+    "sources": [
+      "Tadalafil/dapoxetine combination listings"
+    ]
+  },
+  "vardenafil_dapoxetine": {
+    "genericName": "Vardenafil + Dapoxetine",
+    "activeIngredients": [
+      "Vardenafil",
+      "Dapoxetine Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Men's Health & Vitality",
+    "description": "Combination formulation of vardenafil and dapoxetine for clinician-supervised management of erectile dysfunction with premature ejaculation.",
+    "uses": [
+      "Combined ED and premature ejaculation"
+    ],
+    "precautions": [
+      "Prescription required",
+      "Nitrate interaction risk",
+      "May cause headache or dizziness"
+    ],
+    "storage": "Store below 30\u00b0C away from moisture.",
+    "sources": [
+      "Vardenafil/dapoxetine combination listings"
+    ]
+  },
+  "sildenafil_tadalafil": {
+    "genericName": "Sildenafil Citrate + Tadalafil",
+    "activeIngredients": [
+      "Sildenafil Citrate",
+      "Tadalafil"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Men's Health & Vitality",
+    "description": "Dual PDE5 inhibitor combination marketed for erectile dysfunction; use only under medical advice due to additive vasodilatory effects.",
+    "uses": [
+      "Erectile dysfunction (specialist-directed combinations)"
+    ],
+    "precautions": [
+      "Prescription required",
+      "Elevated hypotension risk with nitrates or antihypertensives"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Sildenafil/tadalafil combination listings"
+    ]
+  },
+  "sildenafil_duloxetine": {
+    "genericName": "Sildenafil Citrate + Duloxetine",
+    "activeIngredients": [
+      "Sildenafil Citrate",
+      "Duloxetine"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Men's Health & Vitality",
+    "description": "Combination product pairing sildenafil with the SNRI duloxetine; identity and indication should be confirmed with a pharmacist before use.",
+    "uses": [
+      "As directed by a registered medical practitioner"
+    ],
+    "precautions": [
+      "Prescription required",
+      "Confirm exact composition on the pack",
+      "Serotonergic and PDE5 precautions apply"
+    ],
+    "storage": "Store below 30\u00b0C in original pack.",
+    "sources": [
+      "Brand listing cross-checks; pack verification advised"
+    ],
+    "confidence": "medium"
+  },
+  "sildenafil_fluoxetine": {
+    "genericName": "Sildenafil Citrate + Fluoxetine",
+    "activeIngredients": [
+      "Sildenafil Citrate",
+      "Fluoxetine"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Men's Health & Vitality",
+    "description": "Combination listing of sildenafil with fluoxetine; verify the printed composition on the product pack before dispensing.",
+    "uses": [
+      "As prescribed by a clinician"
+    ],
+    "precautions": [
+      "Prescription required",
+      "Verify pack label",
+      "SSRI and PDE5 safety warnings apply"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Brand listings; manual pack verification recommended"
+    ],
+    "confidence": "medium"
+  },
+  "tapentadol": {
+    "genericName": "Tapentadol",
+    "activeIngredients": [
+      "Tapentadol Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Tapentadol is a centrally acting analgesic with mu-opioid agonist and norepinephrine reuptake inhibitor activity, reserved for moderate to severe pain under specialist supervision.",
+    "uses": [
+      "Moderate to severe acute or chronic pain when prescribed"
+    ],
+    "precautions": [
+      "Controlled/prescription analgesic",
+      "Risk of dependence and sedation",
+      "Do not crush extended-release tablets"
+    ],
+    "storage": "Store below 30\u00b0C in a secure place away from children.",
+    "sources": [
+      "MSN Tapal prescribing information",
+      "HAB Aspadol listings"
+    ]
+  },
+  "isotretinoin": {
+    "genericName": "Isotretinoin",
+    "activeIngredients": [
+      "Isotretinoin"
+    ],
+    "dosageFormDefault": "Softgel Capsule",
+    "packSizeDefault": "Strip of 10 softgels",
+    "prescriptionRequired": true,
+    "category": "Dermatology & Skin Care",
+    "description": "Isotretinoin is an oral retinoid used for severe, treatment-resistant nodular acne under dermatologist supervision with mandatory pregnancy-prevention measures.",
+    "uses": [
+      "Severe recalcitrant nodular acne"
+    ],
+    "precautions": [
+      "Teratogenic \u2014 pregnancy must be excluded",
+      "Requires lipid and liver monitoring",
+      "Prescription only"
+    ],
+    "storage": "Store below 25\u00b0C protected from light and moisture.",
+    "sources": [
+      "Isotretinoin prescribing information"
+    ]
+  },
+  "baclofen": {
+    "genericName": "Baclofen",
+    "activeIngredients": [
+      "Baclofen"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Baclofen is a GABA-B agonist muscle relaxant used to reduce spasticity related to multiple sclerosis or spinal cord disorders.",
+    "uses": [
+      "Muscle spasticity",
+      "Spinal cord\u2013related rigidity"
+    ],
+    "precautions": [
+      "Do not stop abruptly",
+      "May cause sedation",
+      "Prescription required"
+    ],
+    "storage": "Store at 15\u201330\u00b0C protected from moisture.",
+    "sources": [
+      "Baclofen monographs"
+    ]
+  },
+  "zopiclone": {
+    "genericName": "Zopiclone",
+    "activeIngredients": [
+      "Zopiclone"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Zopiclone is a non-benzodiazepine hypnotic for short-term management of insomnia when behavioural measures are insufficient.",
+    "uses": [
+      "Short-term insomnia"
+    ],
+    "precautions": [
+      "Short-term use only",
+      "Risk of dependence",
+      "Take immediately before bedtime"
+    ],
+    "storage": "Store below 25\u00b0C in a dry place.",
+    "sources": [
+      "Zopiclone prescribing information"
+    ]
+  },
+  "eszopiclone": {
+    "genericName": "Eszopiclone",
+    "activeIngredients": [
+      "Eszopiclone"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Eszopiclone is a cyclopyrrolone hypnotic used for insomnia, including difficulty falling or staying asleep, under medical advice.",
+    "uses": [
+      "Insomnia"
+    ],
+    "precautions": [
+      "Prescription hypnotic",
+      "May cause next-day impairment",
+      "Avoid alcohol"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Eszopiclone product information"
+    ]
+  },
+  "naltrexone": {
+    "genericName": "Naltrexone Hydrochloride",
+    "activeIngredients": [
+      "Naltrexone Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Naltrexone is an opioid receptor antagonist used in alcohol dependence programmes and opioid relapse prevention after detoxification.",
+    "uses": [
+      "Alcohol use disorder maintenance",
+      "Opioid dependence relapse prevention"
+    ],
+    "precautions": [
+      "Must be opioid-free before initiation",
+      "Liver monitoring may be required"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Naltrexone prescribing information"
+    ]
+  },
+  "finasteride": {
+    "genericName": "Finasteride",
+    "activeIngredients": [
+      "Finasteride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Finasteride inhibits type II 5-alpha reductase and is used for male pattern hair loss (typically 1 mg) or benign prostatic hyperplasia (typically 5 mg).",
+    "uses": [
+      "Androgenetic alopecia (1 mg)",
+      "BPH (5 mg)"
+    ],
+    "precautions": [
+      "Not for women who are or may become pregnant",
+      "Prescription required"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Finasteride labeling"
+    ]
+  },
+  "gabapentin": {
+    "genericName": "Gabapentin",
+    "activeIngredients": [
+      "Gabapentin"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Gabapentin is an anticonvulsant used for neuropathic pain and as adjunctive therapy in partial seizures.",
+    "uses": [
+      "Neuropathic pain",
+      "Adjunctive epilepsy therapy"
+    ],
+    "precautions": [
+      "Prescription required",
+      "May cause dizziness or somnolence"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Gabapentin monographs"
+    ]
+  },
+  "pregabalin": {
+    "genericName": "Pregabalin",
+    "activeIngredients": [
+      "Pregabalin"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Pregabalin is used for neuropathic pain, fibromyalgia (where approved), and certain seizure disorders under specialist care.",
+    "uses": [
+      "Neuropathic pain",
+      "Selected seizure disorders"
+    ],
+    "precautions": [
+      "Schedule H1 / prescription control in many markets",
+      "Sedation and dizziness common"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Pregabalin prescribing information"
+    ]
+  },
+  "paracetamol": {
+    "genericName": "Paracetamol (Acetaminophen)",
+    "activeIngredients": [
+      "Paracetamol"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10\u201315 tablets",
+    "prescriptionRequired": false,
+    "category": "Over the Counter (OTC)",
+    "description": "Paracetamol is a widely used analgesic and antipyretic for mild to moderate pain and fever when used at labelled doses.",
+    "uses": [
+      "Fever",
+      "Mild to moderate pain"
+    ],
+    "precautions": [
+      "Do not exceed labelled daily maximum",
+      "Caution in liver disease"
+    ],
+    "storage": "Store below 30\u00b0C in a dry place.",
+    "sources": [
+      "Dolo / Paracip pharmacy monographs"
+    ]
+  },
+  "salbutamol": {
+    "genericName": "Salbutamol (Albuterol)",
+    "activeIngredients": [
+      "Salbutamol Sulphate"
+    ],
+    "dosageFormDefault": "Inhaler",
+    "packSizeDefault": "200 metered doses",
+    "prescriptionRequired": true,
+    "category": "Respiratory & Inhalers",
+    "description": "Salbutamol is a short-acting beta-2 agonist used as a reliever for bronchospasm in asthma and COPD.",
+    "uses": [
+      "Acute asthma symptoms",
+      "COPD-related bronchospasm",
+      "Exercise-induced bronchospasm prevention"
+    ],
+    "precautions": [
+      "Prescription inhaler technique counselling recommended",
+      "Overuse may signal poorly controlled asthma"
+    ],
+    "storage": "Store below 30\u00b0C; do not puncture or incinerate canister.",
+    "sources": [
+      "Cipla Asthalin product information",
+      "Netmeds Asthalin listing"
+    ]
+  },
+  "budesonide": {
+    "genericName": "Budesonide",
+    "activeIngredients": [
+      "Budesonide"
+    ],
+    "dosageFormDefault": "Inhaler",
+    "packSizeDefault": "Metered-dose inhaler pack",
+    "prescriptionRequired": true,
+    "category": "Respiratory & Inhalers",
+    "description": "Budesonide is an inhaled corticosteroid used for maintenance control of asthma airway inflammation.",
+    "uses": [
+      "Asthma maintenance therapy"
+    ],
+    "precautions": [
+      "Not a rescue inhaler for acute attacks",
+      "Rinse mouth after use"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Budecort product information"
+    ]
+  },
+  "azithromycin": {
+    "genericName": "Azithromycin",
+    "activeIngredients": [
+      "Azithromycin"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 3\u20136 tablets",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Azithromycin is a macrolide antibiotic used for selected bacterial respiratory, skin, and sexually transmitted infections as prescribed.",
+    "uses": [
+      "Susceptible bacterial infections"
+    ],
+    "precautions": [
+      "Complete the prescribed course",
+      "Antibiotic stewardship \u2014 not for viral colds"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Azithromycin monographs"
+    ]
+  },
+  "amoxicillin_clavulanate": {
+    "genericName": "Amoxicillin + Clavulanic Acid",
+    "activeIngredients": [
+      "Amoxicillin",
+      "Clavulanic Acid"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 6\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Amoxicillin with clavulanate is a broad-spectrum penicillin antibiotic/beta-lactamase inhibitor combination for susceptible bacterial infections.",
+    "uses": [
+      "Respiratory, urinary, and skin infections as prescribed"
+    ],
+    "precautions": [
+      "Penicillin allergy contraindication",
+      "May cause diarrhoea"
+    ],
+    "storage": "Store below 25\u00b0C in a dry place.",
+    "sources": [
+      "Co-amoxiclav product information"
+    ]
+  },
+  "acyclovir": {
+    "genericName": "Aciclovir (Acyclovir)",
+    "activeIngredients": [
+      "Aciclovir"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 5\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Aciclovir is an antiviral used for herpes simplex and varicella-zoster infections in oral or topical forms as prescribed.",
+    "uses": [
+      "Herpes simplex",
+      "Herpes zoster"
+    ],
+    "precautions": [
+      "Start early in the outbreak when possible",
+      "Maintain hydration with high oral doses"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Zovirax / Acivir product information"
+    ]
+  },
+  "valacyclovir": {
+    "genericName": "Valacyclovir",
+    "activeIngredients": [
+      "Valacyclovir Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 3\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Valacyclovir is a prodrug of aciclovir used for herpes zoster and genital herpes management under medical advice.",
+    "uses": [
+      "Herpes zoster",
+      "Genital herpes"
+    ],
+    "precautions": [
+      "Prescription antiviral",
+      "Dose adjust in renal impairment"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Valacyclovir prescribing information"
+    ]
+  },
+  "ivermectin": {
+    "genericName": "Ivermectin",
+    "activeIngredients": [
+      "Ivermectin"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 1\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Ivermectin is an antiparasitic used for certain worm infestations and selected ectoparasitic conditions as directed by a clinician.",
+    "uses": [
+      "Helminth infections",
+      "Selected parasitic dermatoses"
+    ],
+    "precautions": [
+      "Weight-based dosing by clinician",
+      "Not for self-medication of viral illness"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Ivermectin monographs"
+    ]
+  },
+  "fluconazole": {
+    "genericName": "Fluconazole",
+    "activeIngredients": [
+      "Fluconazole"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 1\u20134 tablets",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Fluconazole is an azole antifungal used for candidiasis and other susceptible fungal infections.",
+    "uses": [
+      "Vaginal/oral candidiasis",
+      "Other susceptible fungal infections"
+    ],
+    "precautions": [
+      "Drug interaction potential (CYP)",
+      "Caution in liver disease"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Fluconazole product information"
+    ]
+  },
+  "modafinil": {
+    "genericName": "Modafinil",
+    "activeIngredients": [
+      "Modafinil"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Modafinil is a wakefulness-promoting agent used for narcolepsy, obstructive sleep apnoea\u2013related sleepiness, and shift-work sleep disorder.",
+    "uses": [
+      "Narcolepsy",
+      "OSA-related excessive sleepiness",
+      "Shift-work disorder"
+    ],
+    "precautions": [
+      "Prescription only",
+      "May reduce contraceptive efficacy",
+      "Psychiatric and cardiac screening advised"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Modalert / Modvigil pharmacy listings"
+    ]
+  },
+  "armodafinil": {
+    "genericName": "Armodafinil",
+    "activeIngredients": [
+      "Armodafinil"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Armodafinil, the R-enantiomer of modafinil, promotes wakefulness in narcolepsy, OSA, and shift-work sleep disorder.",
+    "uses": [
+      "Excessive sleepiness due to narcolepsy, OSA, or shift-work disorder"
+    ],
+    "precautions": [
+      "Prescription only",
+      "Monitor blood pressure",
+      "Serious rash is rare but requires stopping the drug"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Waklert / Artvigil listings"
+    ]
+  },
+  "atomoxetine": {
+    "genericName": "Atomoxetine",
+    "activeIngredients": [
+      "Atomoxetine Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Atomoxetine is a selective norepinephrine reuptake inhibitor used for ADHD in children (over approved ages) and adults.",
+    "uses": [
+      "Attention-deficit/hyperactivity disorder"
+    ],
+    "precautions": [
+      "Monitor mood and suicidality risk in young patients",
+      "May increase heart rate/BP"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Axepta / Atomoxet listings"
+    ]
+  },
+  "duloxetine": {
+    "genericName": "Duloxetine",
+    "activeIngredients": [
+      "Duloxetine"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Duloxetine is an SNRI antidepressant also used for diabetic neuropathic pain, fibromyalgia, and generalised anxiety where approved.",
+    "uses": [
+      "Major depressive disorder",
+      "Neuropathic pain",
+      "GAD (where indicated)"
+    ],
+    "precautions": [
+      "Do not stop abruptly",
+      "Serotonin syndrome risk with other serotonergic drugs"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Duloxetine monographs"
+    ]
+  },
+  "sertraline": {
+    "genericName": "Sertraline",
+    "activeIngredients": [
+      "Sertraline Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Sertraline is an SSRI antidepressant used for depression, OCD, panic disorder, and related anxiety conditions.",
+    "uses": [
+      "Depression",
+      "OCD",
+      "Panic and related anxiety disorders"
+    ],
+    "precautions": [
+      "Prescription antidepressant",
+      "Monitor for mood changes on initiation"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Sertraline product information"
+    ]
+  },
+  "escitalopram": {
+    "genericName": "Escitalopram",
+    "activeIngredients": [
+      "Escitalopram Oxalate"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Escitalopram is an SSRI used for major depressive disorder and generalised anxiety disorder.",
+    "uses": [
+      "Depression",
+      "Generalised anxiety disorder"
+    ],
+    "precautions": [
+      "QT prolongation caution",
+      "Do not stop suddenly"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Escitalopram monographs"
+    ]
+  },
+  "fluoxetine": {
+    "genericName": "Fluoxetine",
+    "activeIngredients": [
+      "Fluoxetine Hydrochloride"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Fluoxetine is a long-acting SSRI used for depression, OCD, bulimia nervosa, and panic disorder as prescribed.",
+    "uses": [
+      "Depression",
+      "OCD",
+      "Bulimia",
+      "Panic disorder"
+    ],
+    "precautions": [
+      "Long half-life",
+      "Drug interaction potential"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Fluoxetine product information"
+    ]
+  },
+  "amitriptyline": {
+    "genericName": "Amitriptyline",
+    "activeIngredients": [
+      "Amitriptyline Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Amitriptyline is a tricyclic antidepressant also commonly used at lower doses for neuropathic pain and migraine prophylaxis.",
+    "uses": [
+      "Depression",
+      "Neuropathic pain",
+      "Migraine prevention"
+    ],
+    "precautions": [
+      "Anticholinergic effects",
+      "Caution in cardiac disease"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Amitriptyline monographs"
+    ]
+  },
+  "quetiapine": {
+    "genericName": "Quetiapine",
+    "activeIngredients": [
+      "Quetiapine"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Quetiapine is an atypical antipsychotic used for schizophrenia, bipolar disorder, and as adjunctive therapy in major depression.",
+    "uses": [
+      "Schizophrenia",
+      "Bipolar disorder",
+      "Adjunctive depression therapy"
+    ],
+    "precautions": [
+      "Metabolic monitoring",
+      "Sedation common"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Quetiapine prescribing information"
+    ]
+  },
+  "olanzapine": {
+    "genericName": "Olanzapine",
+    "activeIngredients": [
+      "Olanzapine"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Olanzapine is an atypical antipsychotic for schizophrenia and bipolar I disorder with known metabolic side-effect considerations.",
+    "uses": [
+      "Schizophrenia",
+      "Bipolar disorder"
+    ],
+    "precautions": [
+      "Weight and glucose monitoring",
+      "Prescription only"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Olanzapine product information"
+    ]
+  },
+  "venlafaxine": {
+    "genericName": "Venlafaxine",
+    "activeIngredients": [
+      "Venlafaxine"
+    ],
+    "dosageFormDefault": "Prolonged Release Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Venlafaxine is an SNRI antidepressant available in immediate and prolonged-release forms for depression and anxiety disorders.",
+    "uses": [
+      "Major depression",
+      "Anxiety disorders"
+    ],
+    "precautions": [
+      "BP monitoring",
+      "Taper on discontinuation"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Venlafaxine XR product information"
+    ]
+  },
+  "carisoprodol": {
+    "genericName": "Carisoprodol",
+    "activeIngredients": [
+      "Carisoprodol"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Carisoprodol is a centrally acting muscle relaxant used short-term for acute musculoskeletal pain; it has dependence potential.",
+    "uses": [
+      "Short-term acute musculoskeletal pain"
+    ],
+    "precautions": [
+      "Habit-forming potential",
+      "Sedation; avoid alcohol"
+    ],
+    "storage": "Store below 30\u00b0C securely.",
+    "sources": [
+      "Carisoprodol labeling"
+    ]
+  },
+  "thyroxine": {
+    "genericName": "Thyroxine Sodium (Levothyroxine)",
+    "activeIngredients": [
+      "Thyroxine Sodium"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Bottle or strip as supplied",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Levothyroxine replaces thyroid hormone in hypothyroidism and is dose-titrated using TSH monitoring.",
+    "uses": [
+      "Hypothyroidism"
+    ],
+    "precautions": [
+      "Take consistently as directed",
+      "Many drug/food interactions with absorption"
+    ],
+    "storage": "Store in original container protected from light and moisture.",
+    "sources": [
+      "Levothyroxine product information"
+    ]
+  },
+  "metformin": {
+    "genericName": "Metformin Hydrochloride",
+    "activeIngredients": [
+      "Metformin Hydrochloride"
+    ],
+    "dosageFormDefault": "Sustained Release Tablet",
+    "packSizeDefault": "Strip of 10\u201315 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Metformin is a first-line oral antidiabetic that reduces hepatic glucose production and improves insulin sensitivity in type 2 diabetes.",
+    "uses": [
+      "Type 2 diabetes mellitus"
+    ],
+    "precautions": [
+      "Renal function monitoring",
+      "GI side effects common initially"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Metformin SR monographs"
+    ]
+  },
+  "prednisolone": {
+    "genericName": "Prednisolone",
+    "activeIngredients": [
+      "Prednisolone"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Prednisolone is a corticosteroid used for inflammatory, allergic, and autoimmune conditions; courses should follow medical tapering advice.",
+    "uses": [
+      "Inflammatory and autoimmune conditions",
+      "Severe allergy as prescribed"
+    ],
+    "precautions": [
+      "Do not stop high-dose courses abruptly",
+      "Infection risk with prolonged use"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Omnacortil / prednisolone pharmacy listings"
+    ]
+  },
+  "propranolol": {
+    "genericName": "Propranolol Hydrochloride",
+    "activeIngredients": [
+      "Propranolol Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Propranolol is a non-selective beta-blocker used for hypertension, angina, arrhythmia, migraine prophylaxis, and performance anxiety in selected cases.",
+    "uses": [
+      "Hypertension",
+      "Migraine prophylaxis",
+      "Selected cardiac and anxiety indications"
+    ],
+    "precautions": [
+      "Avoid in asthma/COPD unless specialist directed",
+      "Do not stop abruptly"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Propranolol monographs"
+    ]
+  },
+  "furosemide": {
+    "genericName": "Furosemide (Frusemide)",
+    "activeIngredients": [
+      "Furosemide"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10\u201315 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Furosemide is a loop diuretic used for oedema due to heart failure, liver, or kidney disease, and for hypertension in some regimens.",
+    "uses": [
+      "Oedema",
+      "Selected hypertension cases"
+    ],
+    "precautions": [
+      "Electrolyte monitoring",
+      "Take as timed by clinician"
+    ],
+    "storage": "Store below 25\u00b0C protected from light.",
+    "sources": [
+      "Lasix / Frusenex product information"
+    ]
+  },
+  "clomiphene": {
+    "genericName": "Clomifene Citrate",
+    "activeIngredients": [
+      "Clomifene Citrate"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Women's Health & Fertility",
+    "description": "Clomifene is a selective estrogen receptor modulator used to induce ovulation in selected anovulatory infertility cases.",
+    "uses": [
+      "Ovulation induction"
+    ],
+    "precautions": [
+      "Specialist fertility supervision",
+      "Risk of multiple pregnancy"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Clomifene product information"
+    ]
+  },
+  "letrozole": {
+    "genericName": "Letrozole",
+    "activeIngredients": [
+      "Letrozole"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Women's Health & Fertility",
+    "description": "Letrozole is an aromatase inhibitor used in hormone-receptor\u2013positive breast cancer and, off-label/protocol-based, for ovulation induction.",
+    "uses": [
+      "Hormone-receptor positive breast cancer",
+      "Ovulation induction under specialist protocols"
+    ],
+    "precautions": [
+      "Prescription oncology/fertility use",
+      "Bone health monitoring in long-term use"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Letrozole prescribing information"
+    ]
+  },
+  "tamoxifen": {
+    "genericName": "Tamoxifen",
+    "activeIngredients": [
+      "Tamoxifen Citrate"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Women's Health & Fertility",
+    "description": "Tamoxifen is a selective estrogen receptor modulator used in estrogen-receptor\u2013positive breast cancer treatment and risk reduction.",
+    "uses": [
+      "ER-positive breast cancer"
+    ],
+    "precautions": [
+      "Thromboembolism risk",
+      "Gynecologic monitoring"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Tamoxifen product information"
+    ]
+  },
+  "cabergoline": {
+    "genericName": "Cabergoline",
+    "activeIngredients": [
+      "Cabergoline"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 2\u20134 tablets",
+    "prescriptionRequired": true,
+    "category": "Women's Health & Fertility",
+    "description": "Cabergoline is a dopamine agonist used to treat hyperprolactinaemia and prolactin-secreting pituitary adenomas.",
+    "uses": [
+      "Hyperprolactinaemia"
+    ],
+    "precautions": [
+      "Cardiac valve monitoring with long-term high doses",
+      "Prescription only"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Cabergoline product information"
+    ]
+  },
+  "conjugated_estrogen": {
+    "genericName": "Conjugated Estrogens",
+    "activeIngredients": [
+      "Conjugated Estrogens"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Blister as supplied",
+    "prescriptionRequired": true,
+    "category": "Women's Health & Fertility",
+    "description": "Conjugated estrogen tablets (e.g., Premarin) are used for menopausal hormone therapy when clinically indicated.",
+    "uses": [
+      "Menopausal hormone therapy"
+    ],
+    "precautions": [
+      "Thromboembolism and cancer risk counselling required",
+      "Lowest effective dose for shortest duration"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Premarin product information"
+    ]
+  },
+  "estradiol": {
+    "genericName": "Estradiol",
+    "activeIngredients": [
+      "Estradiol"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10\u201328 tablets",
+    "prescriptionRequired": true,
+    "category": "Women's Health & Fertility",
+    "description": "Estradiol tablets are used in hormone replacement and selected endocrine protocols under specialist care.",
+    "uses": [
+      "Hormone replacement therapy as prescribed"
+    ],
+    "precautions": [
+      "Prescription hormone therapy",
+      "Risk\u2013benefit assessment required"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Estradiol product information"
+    ]
+  },
+  "hcg": {
+    "genericName": "Human Chorionic Gonadotropin (hCG)",
+    "activeIngredients": [
+      "Human Chorionic Gonadotropin"
+    ],
+    "dosageFormDefault": "Injection",
+    "packSizeDefault": "Vial as supplied",
+    "prescriptionRequired": true,
+    "category": "Women's Health & Fertility",
+    "description": "hCG injections are used in fertility protocols to trigger ovulation and in selected male hypogonadism/cryptorchidism settings.",
+    "uses": [
+      "Ovulation trigger in ART",
+      "Selected hypogonadism protocols"
+    ],
+    "precautions": [
+      "Cold-chain storage often required",
+      "Administered under clinic guidance"
+    ],
+    "storage": "Typically refrigerate 2\u20138\u00b0C; follow pack insert (do not freeze).",
+    "sources": [
+      "hCG product inserts"
+    ]
+  },
+  "testosterone": {
+    "genericName": "Testosterone",
+    "activeIngredients": [
+      "Testosterone"
+    ],
+    "dosageFormDefault": "Gel / Injection / Capsule",
+    "packSizeDefault": "As supplied on pack",
+    "prescriptionRequired": true,
+    "category": "Men's Health & Vitality",
+    "description": "Testosterone replacement products (gel, injection, or undecanoate capsules) treat clinically confirmed male hypogonadism.",
+    "uses": [
+      "Male hypogonadism with confirmed deficiency"
+    ],
+    "precautions": [
+      "Prescription hormone",
+      "Prostate and hematocrit monitoring",
+      "Prevent secondary exposure with gels"
+    ],
+    "storage": "Follow pack: gels at room temperature; some injectables per insert.",
+    "sources": [
+      "Cernos / Sustanon / Testosterone undecanoate information"
+    ]
+  },
+  "bimatoprost": {
+    "genericName": "Bimatoprost",
+    "activeIngredients": [
+      "Bimatoprost"
+    ],
+    "dosageFormDefault": "Ophthalmic Solution",
+    "packSizeDefault": "3 ml bottle",
+    "prescriptionRequired": true,
+    "category": "Dermatology & Skin Care",
+    "description": "Bimatoprost ophthalmic solution lowers intraocular pressure in glaucoma/ocular hypertension and is also used for eyelash hypotrichosis where approved.",
+    "uses": [
+      "Glaucoma / ocular hypertension",
+      "Eyelash hypotrichosis (selected products)"
+    ],
+    "precautions": [
+      "May darken iris/eyelids",
+      "Use sterile drop technique"
+    ],
+    "storage": "Store below 25\u00b0C; discard after labelled in-use period.",
+    "sources": [
+      "Careprost / bimatoprost product information"
+    ]
+  },
+  "orlistat": {
+    "genericName": "Orlistat",
+    "activeIngredients": [
+      "Orlistat"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Orlistat is a lipase inhibitor used with diet for weight management in obesity by reducing dietary fat absorption.",
+    "uses": [
+      "Obesity management with calorie-controlled diet"
+    ],
+    "precautions": [
+      "GI fat-related side effects",
+      "Fat-soluble vitamin supplementation may be advised"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Orligal / orlistat listings"
+    ]
+  },
+  "rizatriptan": {
+    "genericName": "Rizatriptan",
+    "activeIngredients": [
+      "Rizatriptan"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Rizatriptan is a 5-HT1B/1D agonist (triptan) used for acute migraine attacks, not for prevention.",
+    "uses": [
+      "Acute migraine"
+    ],
+    "precautions": [
+      "Not for hemiplegic/basilar migraine",
+      "Cardiovascular screening"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Rizatriptan product information"
+    ]
+  },
+  "sumatriptan": {
+    "genericName": "Sumatriptan",
+    "activeIngredients": [
+      "Sumatriptan"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 4\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Sumatriptan is a triptan used for acute relief of migraine with or without aura.",
+    "uses": [
+      "Acute migraine attacks"
+    ],
+    "precautions": [
+      "Cardiovascular contraindications",
+      "Do not exceed labelled dose per 24 hours"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Sumatriptan product information"
+    ]
+  },
+  "tamsulosin": {
+    "genericName": "Tamsulosin Hydrochloride",
+    "activeIngredients": [
+      "Tamsulosin Hydrochloride"
+    ],
+    "dosageFormDefault": "Modified Release Capsule",
+    "packSizeDefault": "Strip of 10\u201315 capsules",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Tamsulosin is an alpha-1 blocker that relaxes prostate and bladder-neck smooth muscle to improve BPH-related urinary flow.",
+    "uses": [
+      "Benign prostatic hyperplasia symptoms"
+    ],
+    "precautions": [
+      "Orthostatic hypotension",
+      "Intraoperative floppy iris syndrome risk"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Tamsulosin MR product information"
+    ]
+  },
+  "topiramate": {
+    "genericName": "Topiramate",
+    "activeIngredients": [
+      "Topiramate"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Topiramate is an anticonvulsant also used for migraine prophylaxis; cognitive and metabolic side effects require monitoring.",
+    "uses": [
+      "Epilepsy",
+      "Migraine prevention"
+    ],
+    "precautions": [
+      "Hydration to reduce kidney-stone risk",
+      "Cognitive slowing possible"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Topiramate product information"
+    ]
+  },
+  "omeprazole": {
+    "genericName": "Omeprazole",
+    "activeIngredients": [
+      "Omeprazole"
+    ],
+    "dosageFormDefault": "Gastro-resistant Capsule",
+    "packSizeDefault": "Strip of 10\u201315 capsules",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Omeprazole is a proton-pump inhibitor used for GERD, peptic ulcer disease, and H. pylori regimens as prescribed.",
+    "uses": [
+      "GERD",
+      "Peptic ulcer",
+      "Acid-related dyspepsia protocols"
+    ],
+    "precautions": [
+      "Long-term use needs review",
+      "Swallow capsules whole"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Omeprazole product information"
+    ]
+  },
+  "metronidazole": {
+    "genericName": "Metronidazole",
+    "activeIngredients": [
+      "Metronidazole"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Metronidazole is an nitroimidazole antimicrobial for anaerobic bacterial and certain protozoal infections.",
+    "uses": [
+      "Anaerobic infections",
+      "Amoebiasis/giardiasis as prescribed"
+    ],
+    "precautions": [
+      "Avoid alcohol during and shortly after therapy",
+      "Metallic taste common"
+    ],
+    "storage": "Store below 30\u00b0C protected from light.",
+    "sources": [
+      "Metronidazole monographs"
+    ]
+  },
+  "cephalexin": {
+    "genericName": "Cephalexin",
+    "activeIngredients": [
+      "Cephalexin"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Cephalexin is a first-generation cephalosporin antibiotic for susceptible gram-positive and some gram-negative infections.",
+    "uses": [
+      "Skin, soft-tissue, and urinary infections as prescribed"
+    ],
+    "precautions": [
+      "Caution with penicillin allergy",
+      "Complete prescribed course"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Cephalexin product information"
+    ]
+  },
+  "tetracycline": {
+    "genericName": "Tetracycline",
+    "activeIngredients": [
+      "Tetracycline Hydrochloride"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Tetracycline is a broad-spectrum antibiotic; absorption is reduced by dairy, antacids, and iron.",
+    "uses": [
+      "Susceptible bacterial infections",
+      "Selected acne protocols"
+    ],
+    "precautions": [
+      "Avoid in pregnancy and young children (tooth staining)",
+      "Photosensitivity"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Tetracycline monographs"
+    ]
+  },
+  "doxycycline": {
+    "genericName": "Doxycycline",
+    "activeIngredients": [
+      "Doxycycline"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Doxycycline is a tetracycline-class antibiotic used for respiratory, skin, and tick-borne infections and some acne regimens.",
+    "uses": [
+      "Bacterial infections",
+      "Acne (selected cases)"
+    ],
+    "precautions": [
+      "Photosensitivity",
+      "Take with water; remain upright"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Doxycycline product information"
+    ]
+  },
+  "clindamycin": {
+    "genericName": "Clindamycin",
+    "activeIngredients": [
+      "Clindamycin"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Clindamycin is a lincosamide antibiotic for anaerobic and gram-positive infections, including some skin and dental infections.",
+    "uses": [
+      "Susceptible anaerobic/gram-positive infections"
+    ],
+    "precautions": [
+      "C. difficile diarrhoea risk",
+      "Prescription only"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Clindamycin product information"
+    ]
+  },
+  "ciprofloxacin": {
+    "genericName": "Ciprofloxacin",
+    "activeIngredients": [
+      "Ciprofloxacin"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Ciprofloxacin is a fluoroquinolone antibiotic reserved for susceptible infections when alternatives are unsuitable.",
+    "uses": [
+      "Selected UTI, GI, and bone/joint infections"
+    ],
+    "precautions": [
+      "Tendinopathy and CNS warnings",
+      "Avoid unnecessary use"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Ciprofloxacin product information"
+    ]
+  },
+  "cotrimoxazole": {
+    "genericName": "Sulfamethoxazole + Trimethoprim",
+    "activeIngredients": [
+      "Sulfamethoxazole",
+      "Trimethoprim"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Co-trimoxazole (sulfamethoxazole/trimethoprim) treats susceptible urinary, respiratory, and opportunistic infections.",
+    "uses": [
+      "UTI and other susceptible infections"
+    ],
+    "precautions": [
+      "Sulfa allergy contraindication",
+      "Hydration important"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Co-trimoxazole DS product information"
+    ]
+  },
+  "ampicillin": {
+    "genericName": "Ampicillin",
+    "activeIngredients": [
+      "Ampicillin"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Ampicillin is an aminopenicillin antibiotic for susceptible gram-positive and some gram-negative infections.",
+    "uses": [
+      "Susceptible bacterial infections"
+    ],
+    "precautions": [
+      "Penicillin allergy",
+      "Complete course"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Ampicillin monographs"
+    ]
+  },
+  "amoxicillin": {
+    "genericName": "Amoxicillin",
+    "activeIngredients": [
+      "Amoxicillin"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Amoxicillin is a commonly prescribed aminopenicillin for ear, sinus, chest, and urinary infections caused by susceptible organisms.",
+    "uses": [
+      "Susceptible bacterial infections"
+    ],
+    "precautions": [
+      "Penicillin allergy",
+      "Diarrhoea possible"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Amoxicillin product information"
+    ]
+  },
+  "amlodipine": {
+    "genericName": "Amlodipine",
+    "activeIngredients": [
+      "Amlodipine Besylate"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10\u201315 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Amlodipine is a dihydropyridine calcium-channel blocker used for hypertension and chronic stable angina.",
+    "uses": [
+      "Hypertension",
+      "Angina"
+    ],
+    "precautions": [
+      "Ankle oedema common",
+      "Prescription antihypertensive"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Amlodipine product information"
+    ]
+  },
+  "enalapril": {
+    "genericName": "Enalapril",
+    "activeIngredients": [
+      "Enalapril Maleate"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Enalapril is an ACE inhibitor used for hypertension and heart failure; Hypernil is a common Indian brand.",
+    "uses": [
+      "Hypertension",
+      "Heart failure"
+    ],
+    "precautions": [
+      "Monitor potassium and renal function",
+      "Cough possible"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Enalapril / Hypernil listings"
+    ],
+    "confidence": "medium"
+  },
+  "celecoxib": {
+    "genericName": "Celecoxib",
+    "activeIngredients": [
+      "Celecoxib"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Celecoxib is a COX-2 selective NSAID used for osteoarthritis, rheumatoid arthritis, and acute pain in selected patients.",
+    "uses": [
+      "Osteoarthritis",
+      "Rheumatoid arthritis",
+      "Acute pain"
+    ],
+    "precautions": [
+      "CV and GI risk warnings for NSAIDs",
+      "Sulfa allergy caution"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Celecoxib product information"
+    ]
+  },
+  "cyproheptadine": {
+    "genericName": "Cyproheptadine",
+    "activeIngredients": [
+      "Cyproheptadine Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Cyproheptadine is a first-generation antihistamine sometimes used for allergic conditions and appetite stimulation under advice.",
+    "uses": [
+      "Allergic conditions",
+      "Appetite stimulation when prescribed"
+    ],
+    "precautions": [
+      "Sedation",
+      "Anticholinergic effects"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Cyproheptadine monographs"
+    ]
+  },
+  "hydroxychloroquine": {
+    "genericName": "Hydroxychloroquine",
+    "activeIngredients": [
+      "Hydroxychloroquine Sulphate"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10\u201315 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Hydroxychloroquine is a DMARD/antimalarial used for rheumatoid arthritis, lupus, and malaria prophylaxis/treatment as indicated.",
+    "uses": [
+      "RA",
+      "SLE",
+      "Malaria (selected)"
+    ],
+    "precautions": [
+      "Baseline and periodic eye exams",
+      "Prescription only"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Hydroxychloroquine product information"
+    ]
+  },
+  "raloxifene": {
+    "genericName": "Raloxifene",
+    "activeIngredients": [
+      "Raloxifene Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Women's Health & Fertility",
+    "description": "Raloxifene is a SERM used to treat and prevent osteoporosis in postmenopausal women and to reduce invasive breast cancer risk in selected patients.",
+    "uses": [
+      "Postmenopausal osteoporosis",
+      "Breast cancer risk reduction (selected)"
+    ],
+    "precautions": [
+      "VTE risk",
+      "Not for premenopausal use"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Raloxifene product information"
+    ]
+  },
+  "anastrozole": {
+    "genericName": "Anastrozole",
+    "activeIngredients": [
+      "Anastrozole"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Women's Health & Fertility",
+    "description": "Anastrozole is a non-steroidal aromatase inhibitor used in hormone-receptor\u2013positive breast cancer in postmenopausal women.",
+    "uses": [
+      "HR-positive breast cancer in postmenopausal women"
+    ],
+    "precautions": [
+      "Bone density monitoring",
+      "Prescription oncology medicine"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Anastrozole product information"
+    ]
+  },
+  "tretinoin": {
+    "genericName": "Tretinoin",
+    "activeIngredients": [
+      "Tretinoin"
+    ],
+    "dosageFormDefault": "Topical Cream",
+    "packSizeDefault": "Tube as supplied",
+    "prescriptionRequired": true,
+    "category": "Dermatology & Skin Care",
+    "description": "Tretinoin cream is a topical retinoid used for acne and photoaged skin under dermatologist guidance.",
+    "uses": [
+      "Acne vulgaris",
+      "Photodamage (selected)"
+    ],
+    "precautions": [
+      "Photosensitivity \u2014 use sunscreen",
+      "Irritation common initially",
+      "Avoid in pregnancy unless advised"
+    ],
+    "storage": "Store below 25\u00b0C; keep tube tightly closed.",
+    "sources": [
+      "Tretinoin cream product information"
+    ]
+  },
+  "cyclobenzaprine": {
+    "genericName": "Cyclobenzaprine",
+    "activeIngredients": [
+      "Cyclobenzaprine"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Cyclobenzaprine is a muscle relaxant used short-term for acute musculoskeletal spasm; Flexabenz is a common brand.",
+    "uses": [
+      "Acute muscle spasm"
+    ],
+    "precautions": [
+      "Sedation",
+      "Short-term use recommended"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Flexabenz / cyclobenzaprine listings"
+    ]
+  },
+  "ibuprofen": {
+    "genericName": "Ibuprofen",
+    "activeIngredients": [
+      "Ibuprofen"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10\u201315 tablets",
+    "prescriptionRequired": false,
+    "category": "Over the Counter (OTC)",
+    "description": "Ibuprofen is an NSAID analgesic/anti-inflammatory for mild to moderate pain and fever; Reactin is an ibuprofen brand in some markets.",
+    "uses": [
+      "Pain",
+      "Inflammation",
+      "Fever"
+    ],
+    "precautions": [
+      "GI and renal cautions",
+      "Take with food if needed"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Ibuprofen monographs"
+    ],
+    "confidence": "medium"
+  },
+  "flibanserin": {
+    "genericName": "Flibanserin",
+    "activeIngredients": [
+      "Flibanserin"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Bottle/strip as supplied",
+    "prescriptionRequired": true,
+    "category": "Women's Health & Fertility",
+    "description": "Flibanserin is indicated for acquired, generalised hypoactive sexual desire disorder in premenopausal women in jurisdictions where approved.",
+    "uses": [
+      "HSDD in premenopausal women (where approved)"
+    ],
+    "precautions": [
+      "Alcohol interaction boxed warning in some labels",
+      "Prescription only"
+    ],
+    "storage": "Store at room temperature per pack insert.",
+    "sources": [
+      "Flibanserin prescribing information"
+    ],
+    "confidence": "medium"
+  },
+  "ondansetron": {
+    "genericName": "Ondansetron",
+    "activeIngredients": [
+      "Ondansetron"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Ondansetron is a 5-HT3 antagonist antiemetic used for chemotherapy-, radiotherapy-, and surgery-related nausea and vomiting; Vominorm may be a local brand \u2014 verify pack.",
+    "uses": [
+      "Nausea and vomiting (selected causes)"
+    ],
+    "precautions": [
+      "QT prolongation caution",
+      "Verify brand composition on pack"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Ondansetron monographs"
+    ],
+    "confidence": "low"
+  },
+  "levofloxacin": {
+    "genericName": "Levofloxacin",
+    "activeIngredients": [
+      "Levofloxacin"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 5\u201310 tablets",
+    "prescriptionRequired": true,
+    "category": "Anti-Infectives & Antibiotics",
+    "description": "Levofloxacin is a fluoroquinolone antibiotic for selected respiratory and urinary infections when alternatives are unsuitable.",
+    "uses": [
+      "Susceptible bacterial infections"
+    ],
+    "precautions": [
+      "Tendinopathy warnings",
+      "Reserve for appropriate indications"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Levofloxacin product information"
+    ],
+    "confidence": "medium"
+  },
+  "glimepiride": {
+    "genericName": "Glimepiride",
+    "activeIngredients": [
+      "Glimepiride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Glimepiride is a sulfonylurea antidiabetic that stimulates insulin release in type 2 diabetes.",
+    "uses": [
+      "Type 2 diabetes"
+    ],
+    "precautions": [
+      "Hypoglycaemia risk",
+      "Take with meals as directed"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Glimepiride product information"
+    ],
+    "confidence": "medium"
+  },
+  "esomeprazole": {
+    "genericName": "Esomeprazole",
+    "activeIngredients": [
+      "Esomeprazole"
+    ],
+    "dosageFormDefault": "Gastro-resistant Tablet",
+    "packSizeDefault": "Strip of 10\u201315 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Esomeprazole is a PPI used for GERD and acid-related disorders; confirm brand match for Esoprol listings.",
+    "uses": [
+      "GERD",
+      "Acid-related dyspepsia"
+    ],
+    "precautions": [
+      "Long-term use review",
+      "Swallow whole"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Esomeprazole product information"
+    ],
+    "confidence": "medium"
+  },
+  "diclofenac": {
+    "genericName": "Diclofenac",
+    "activeIngredients": [
+      "Diclofenac"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Diclofenac is an NSAID for pain and inflammation; brand identity for unclear spreadsheet names should be pack-verified.",
+    "uses": [
+      "Pain and inflammation"
+    ],
+    "precautions": [
+      "GI/CV NSAID warnings"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Diclofenac monographs"
+    ],
+    "confidence": "low"
+  },
+  "clenbuterol": {
+    "genericName": "Clenbuterol",
+    "activeIngredients": [
+      "Clenbuterol Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "As supplied",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Clenbuterol is a beta-2 agonist sometimes listed for bronchospasm; it is not an approved weight-loss medicine in many markets and requires careful regulatory/clinical review.",
+    "uses": [
+      "Bronchospasm in jurisdictions where approved"
+    ],
+    "precautions": [
+      "Cardiac stimulation risk",
+      "Regulatory status varies \u2014 verify legality and indication",
+      "Manual verification required"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Clenbuterol regulatory summaries"
+    ],
+    "confidence": "low"
+  },
+  "tofisopam": {
+    "genericName": "Tofisopam",
+    "activeIngredients": [
+      "Tofisopam"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Tofisopam is an atypical benzodiazepine derivative used in some countries for anxiety; confirm local approval and pack identity.",
+    "uses": [
+      "Anxiety (where approved)"
+    ],
+    "precautions": [
+      "Prescription psychotropic",
+      "Manual verification of brand/source advised"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Tofisopam monographs"
+    ],
+    "confidence": "low"
+  },
+  "trazodone": {
+    "genericName": "Trazodone",
+    "activeIngredients": [
+      "Trazodone Hydrochloride"
+    ],
+    "dosageFormDefault": "Tablet",
+    "packSizeDefault": "Strip of 10 tablets",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Trazodone is a serotonin modulator antidepressant often used for depression and off-label for insomnia; verify Trazocan pack composition.",
+    "uses": [
+      "Depression",
+      "Insomnia (off-label in some settings)"
+    ],
+    "precautions": [
+      "Sedation",
+      "Priapism rare but serious"
+    ],
+    "storage": "Store below 30\u00b0C.",
+    "sources": [
+      "Trazodone product information"
+    ],
+    "confidence": "medium"
+  },
+  "zaleplon": {
+    "genericName": "Zaleplon",
+    "activeIngredients": [
+      "Zaleplon"
+    ],
+    "dosageFormDefault": "Capsule",
+    "packSizeDefault": "Strip of 10 capsules",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Zaleplon is a short-acting hypnotic for sleep-onset insomnia; Hypnite brand match should be pack-verified.",
+    "uses": [
+      "Sleep-onset insomnia"
+    ],
+    "precautions": [
+      "Short-term use",
+      "Complex sleep behaviours warning"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Zaleplon product information"
+    ],
+    "confidence": "low"
+  },
+  "cholecalciferol": {
+    "genericName": "Cholecalciferol (Vitamin D3)",
+    "activeIngredients": [
+      "Cholecalciferol"
+    ],
+    "dosageFormDefault": "Injection / Capsule",
+    "packSizeDefault": "As supplied",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "High-dose vitamin D3 (e.g., Architol 6L) is used to correct deficiency under medical supervision.",
+    "uses": [
+      "Vitamin D deficiency"
+    ],
+    "precautions": [
+      "Hypercalcemia risk with excess",
+      "Confirm strength on pack"
+    ],
+    "storage": "Follow pack insert (often protect from light).",
+    "sources": [
+      "Vitamin D3 product information"
+    ],
+    "confidence": "medium"
+  },
+  "rivastigmine": {
+    "genericName": "Rivastigmine",
+    "activeIngredients": [
+      "Rivastigmine"
+    ],
+    "dosageFormDefault": "Capsule / Patch",
+    "packSizeDefault": "As supplied",
+    "prescriptionRequired": true,
+    "category": "Prescription Medicines",
+    "description": "Rivastigmine is a cholinesterase inhibitor used in mild to moderate Alzheimer\u2019s and Parkinson\u2019s disease dementia; confirm Rivasmart identity on pack.",
+    "uses": [
+      "Alzheimer\u2019s disease dementia",
+      "Parkinson\u2019s disease dementia"
+    ],
+    "precautions": [
+      "GI side effects",
+      "Specialist initiation"
+    ],
+    "storage": "Store below 25\u00b0C.",
+    "sources": [
+      "Rivastigmine product information"
+    ],
+    "confidence": "low"
+  }
+}

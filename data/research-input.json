@@ -1,0 +1,2466 @@
+[
+  {
+    "row": 2,
+    "name": "Signatret",
+    "generic": "Isotretinion Capsules",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 3,
+    "name": "Aspadol",
+    "generic": "Tapentadol Tablets",
+    "dosage": "50mg",
+    "price": 9
+  },
+  {
+    "row": 4,
+    "name": "Aspadol",
+    "generic": "Tapentadol",
+    "dosage": "100mg",
+    "price": 16
+  },
+  {
+    "row": 5,
+    "name": "Aspadol",
+    "generic": "Tapentadol",
+    "dosage": "150mg",
+    "price": 21
+  },
+  {
+    "row": 6,
+    "name": "Aspadol",
+    "generic": "Tapentadol",
+    "dosage": "200mg",
+    "price": 25
+  },
+  {
+    "row": 7,
+    "name": "Tapal ER 100 mg",
+    "generic": "Tapentadol",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 8,
+    "name": "Typentadol 100 mg",
+    "generic": "Tapentadol",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 9,
+    "name": "Baclofen 25 mg",
+    "generic": "",
+    "dosage": "25 mg",
+    "price": ""
+  },
+  {
+    "row": 10,
+    "name": "ZOP",
+    "generic": "Zopiclone Tablets",
+    "dosage": "7.5mg",
+    "price": ""
+  },
+  {
+    "row": 11,
+    "name": "Zopisign",
+    "generic": "Zopiclone Tablets",
+    "dosage": "10mg",
+    "price": 3.5
+  },
+  {
+    "row": 12,
+    "name": "Zopicone",
+    "generic": "Zopiclone Tablets",
+    "dosage": "7.5mg",
+    "price": 11
+  },
+  {
+    "row": 13,
+    "name": "Zopisign",
+    "generic": "Zopiclone Tablets",
+    "dosage": "7.5mg",
+    "price": 4
+  },
+  {
+    "row": 14,
+    "name": "Nalsign",
+    "generic": "Naltrexone Hydrochloride",
+    "dosage": "50mg",
+    "price": ""
+  },
+  {
+    "row": 15,
+    "name": "Finasteride Tablets",
+    "generic": "Finasteride Tablets",
+    "dosage": "1mg",
+    "price": ""
+  },
+  {
+    "row": 16,
+    "name": "Prosteride",
+    "generic": "Finasteride Tablets",
+    "dosage": "5mg",
+    "price": ""
+  },
+  {
+    "row": 17,
+    "name": "Gabasign",
+    "generic": "Gabapentin Capsule",
+    "dosage": "300mg",
+    "price": ""
+  },
+  {
+    "row": 18,
+    "name": "Nervigesic Capsules",
+    "generic": "Pregabalin Capsules",
+    "dosage": "75mg",
+    "price": ""
+  },
+  {
+    "row": 19,
+    "name": "Nervigesic Capsules",
+    "generic": "Pregabalin Capsules",
+    "dosage": "150mg",
+    "price": ""
+  },
+  {
+    "row": 20,
+    "name": "Nervigesic Capsules",
+    "generic": "Pregabalin Capsules",
+    "dosage": "300mg",
+    "price": ""
+  },
+  {
+    "row": 21,
+    "name": "Sexforce",
+    "generic": "Sildenafil Citrate",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 22,
+    "name": "Cenforce",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "25mg",
+    "price": 3
+  },
+  {
+    "row": 23,
+    "name": "Cenforce",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "50mg",
+    "price": 3
+  },
+  {
+    "row": 24,
+    "name": "Cenforce",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": 3
+  },
+  {
+    "row": 25,
+    "name": "Cenforce",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "150mg",
+    "price": 5.4
+  },
+  {
+    "row": 26,
+    "name": "Cenforce",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "200mg",
+    "price": 6.75
+  },
+  {
+    "row": 27,
+    "name": "Cenforce-D",
+    "generic": "Sildenafil & Dapoxentine Tablets",
+    "dosage": "100/60mg",
+    "price": 12.7
+  },
+  {
+    "row": 28,
+    "name": "Cenforce Professional",
+    "generic": "Sildenafil Citrate Sublingual Tablets",
+    "dosage": "",
+    "price": 3.95
+  },
+  {
+    "row": 29,
+    "name": "Vilitra",
+    "generic": "Vardenafil Tablets",
+    "dosage": "10mg",
+    "price": 6.8
+  },
+  {
+    "row": 30,
+    "name": "Vilitra",
+    "generic": "Vardenafil Tablets",
+    "dosage": "20mg",
+    "price": 7.6
+  },
+  {
+    "row": 31,
+    "name": "Vilitra",
+    "generic": "Vardenafil Tablets",
+    "dosage": "40 mg",
+    "price": 12.5
+  },
+  {
+    "row": 32,
+    "name": "Vilitra",
+    "generic": "Vardenafil Tablets",
+    "dosage": "60mg",
+    "price": 16
+  },
+  {
+    "row": 33,
+    "name": "Valif",
+    "generic": "Vardenafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 34,
+    "name": "Kamagra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "50mg",
+    "price": 9
+  },
+  {
+    "row": 35,
+    "name": "Kamagra Gold",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": 11.5
+  },
+  {
+    "row": 36,
+    "name": "Kamagra Oral Jelly",
+    "generic": "Sildenafil Oral Jelly",
+    "dosage": "100mg",
+    "price": 16.75
+  },
+  {
+    "row": 37,
+    "name": "Kamagra Export",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": 10.2
+  },
+  {
+    "row": 38,
+    "name": "Super Kamagra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100/60mg",
+    "price": 24
+  },
+  {
+    "row": 39,
+    "name": "Kamagra Effervescent Tablets",
+    "generic": "Sildeanfil Citrate Effervescent Tablets",
+    "dosage": "100mg",
+    "price": 11.15
+  },
+  {
+    "row": 40,
+    "name": "Kamagra Chewable Tablets",
+    "generic": "Sildenafil Citrate Chewable Tablets",
+    "dosage": "100mg",
+    "price": 12.5
+  },
+  {
+    "row": 41,
+    "name": "Sildigra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "25mg",
+    "price": 3
+  },
+  {
+    "row": 42,
+    "name": "Sildigra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "50mg",
+    "price": 3.2
+  },
+  {
+    "row": 43,
+    "name": "Sildigra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": 3.35
+  },
+  {
+    "row": 44,
+    "name": "Sildigra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "120mg",
+    "price": 5
+  },
+  {
+    "row": 45,
+    "name": "Sildigra",
+    "generic": "Sildenafil Softgel Capsule",
+    "dosage": "100mg",
+    "price": 4.55
+  },
+  {
+    "row": 46,
+    "name": "Sildigra XL Plus",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "150mg",
+    "price": 4.25
+  },
+  {
+    "row": 47,
+    "name": "Sildgra gold",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "200 mg",
+    "price": 4.8
+  },
+  {
+    "row": 48,
+    "name": "Sildigra super Power",
+    "generic": "Sildenafil & Dapoxetine",
+    "dosage": "100 mg",
+    "price": ""
+  },
+  {
+    "row": 49,
+    "name": "Sildigra Soft Chewable",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 50,
+    "name": "Ayurmax",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100 mg",
+    "price": ""
+  },
+  {
+    "row": 51,
+    "name": "Maxgun",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100 mg",
+    "price": ""
+  },
+  {
+    "row": 52,
+    "name": "Tadagra Chewable",
+    "generic": "Tadalafil Softgel Capsule",
+    "dosage": "20mg",
+    "price": 4.7
+  },
+  {
+    "row": 53,
+    "name": "Tadagra 20mg",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": 3.6
+  },
+  {
+    "row": 54,
+    "name": "Tadagra Strong",
+    "generic": "Tadalafil Tablets",
+    "dosage": "40mg",
+    "price": 4.49
+  },
+  {
+    "row": 55,
+    "name": "Tadagra Professional",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": 4.8
+  },
+  {
+    "row": 56,
+    "name": "Eroxib",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 57,
+    "name": "Ladygra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 58,
+    "name": "Prejac",
+    "generic": "Dapoxetine HCI Tablets",
+    "dosage": "60mg",
+    "price": ""
+  },
+  {
+    "row": 59,
+    "name": "Fungicyte",
+    "generic": "Fluconazole Tablets",
+    "dosage": "150mg",
+    "price": ""
+  },
+  {
+    "row": 60,
+    "name": "Pain-O-Soma",
+    "generic": "Carisoprodol Tablets",
+    "dosage": "350mg",
+    "price": 3.6
+  },
+  {
+    "row": 61,
+    "name": "Pain-O-Soma",
+    "generic": "Carisoprodol Tablets",
+    "dosage": "500mg",
+    "price": 3.9
+  },
+  {
+    "row": 62,
+    "name": "ProSoma",
+    "generic": "Carisoprodol Tablets",
+    "dosage": "350mg",
+    "price": ""
+  },
+  {
+    "row": 63,
+    "name": "ProSoma",
+    "generic": "Carisoprodol Tablets",
+    "dosage": "500mg",
+    "price": ""
+  },
+  {
+    "row": 64,
+    "name": "Olanzap",
+    "generic": "Olanzapine Tablets",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 65,
+    "name": "Rizatrax",
+    "generic": "Rizatriptan Tablets",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 66,
+    "name": "Azitop",
+    "generic": "Azithromycin Tablets",
+    "dosage": "250 mg",
+    "price": ""
+  },
+  {
+    "row": 67,
+    "name": "Azitop",
+    "generic": "Azithromycin Tablets",
+    "dosage": "500 mg",
+    "price": ""
+  },
+  {
+    "row": 68,
+    "name": "Azisign",
+    "generic": "Azithromycin Tablets",
+    "dosage": "500mg",
+    "price": ""
+  },
+  {
+    "row": 69,
+    "name": "Tadaga",
+    "generic": "Tadalafil Tablets",
+    "dosage": "5mg",
+    "price": ""
+  },
+  {
+    "row": 70,
+    "name": "Tadaga",
+    "generic": "Tadalafil Tablets",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 71,
+    "name": "Tadaga",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 72,
+    "name": "Tadaga Super",
+    "generic": "Tadalafil Tablets",
+    "dosage": "60mg",
+    "price": ""
+  },
+  {
+    "row": 73,
+    "name": "Tadaga Power",
+    "generic": "Tadalafil Tablets",
+    "dosage": "80mg",
+    "price": ""
+  },
+  {
+    "row": 74,
+    "name": "Tadalis",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 75,
+    "name": "Tadalis-SX",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 76,
+    "name": "Tadavar",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 77,
+    "name": "Tadarise",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": 3.5
+  },
+  {
+    "row": 78,
+    "name": "Tadarise",
+    "generic": "Tadalafil Tablets",
+    "dosage": "40mg",
+    "price": 4.9
+  },
+  {
+    "row": 79,
+    "name": "Tadarise",
+    "generic": "Tadalafil Tablets",
+    "dosage": "60mg",
+    "price": 5.8
+  },
+  {
+    "row": 80,
+    "name": "Tadarise PRO",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 81,
+    "name": "Tadarise PRO",
+    "generic": "Tadalafil Tablets",
+    "dosage": "40mg",
+    "price": ""
+  },
+  {
+    "row": 82,
+    "name": "Super tadarise",
+    "generic": "Tadalafil& Dapoxetine",
+    "dosage": "",
+    "price": 15
+  },
+  {
+    "row": 83,
+    "name": "Tadasoft",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 84,
+    "name": "Tadasoft",
+    "generic": "Tadalafil Tablets",
+    "dosage": "40mg",
+    "price": ""
+  },
+  {
+    "row": 85,
+    "name": "Tadora",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 86,
+    "name": "Tadacip",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 87,
+    "name": "Tadalee",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 88,
+    "name": "Super Tadapox",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 89,
+    "name": "Accufine",
+    "generic": "Isotretinion Capsules",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 90,
+    "name": "Accufine",
+    "generic": "Isotretinion Capsules",
+    "dosage": "40mg",
+    "price": ""
+  },
+  {
+    "row": 91,
+    "name": "Afferox XR",
+    "generic": "Venlafaxine Prolonged Release Tablets",
+    "dosage": "75mg",
+    "price": ""
+  },
+  {
+    "row": 92,
+    "name": "Afferox XR",
+    "generic": "Venlafaxine Prolonged Release Tablets",
+    "dosage": "150mg",
+    "price": ""
+  },
+  {
+    "row": 93,
+    "name": "Atomoxet",
+    "generic": "Atomoxetine Tablets",
+    "dosage": "25mg",
+    "price": ""
+  },
+  {
+    "row": 94,
+    "name": "Atomoxet",
+    "generic": "Atomoxetine Hydrochloride Tablets",
+    "dosage": "40mg",
+    "price": ""
+  },
+  {
+    "row": 95,
+    "name": "Fertogard",
+    "generic": "Clomifene Citrate Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 96,
+    "name": "Clofi",
+    "generic": "Clomifene Citrate Tablets",
+    "dosage": "50mg",
+    "price": ""
+  },
+  {
+    "row": 97,
+    "name": "Clofi",
+    "generic": "Clomifene Citrate Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 98,
+    "name": "Glycoheal",
+    "generic": "Metformin Hydrochloride Sustained Release",
+    "dosage": "850mg",
+    "price": ""
+  },
+  {
+    "row": 99,
+    "name": "Metfor 500 mg",
+    "generic": "Metformin Hydrochloride Sustained Release",
+    "dosage": "500mg",
+    "price": ""
+  },
+  {
+    "row": 100,
+    "name": "Healtroxin",
+    "generic": "Thyroxine Sodium Tablets",
+    "dosage": "125mg",
+    "price": ""
+  },
+  {
+    "row": 101,
+    "name": "Healtroxin",
+    "generic": "Thyroxine Sodium Tablets",
+    "dosage": "150mg",
+    "price": ""
+  },
+  {
+    "row": 102,
+    "name": "Omeeforce",
+    "generic": "Omeprazole Gastro-resistant Capsules",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 103,
+    "name": "Sertafine",
+    "generic": "Sertraline Tablets",
+    "dosage": "50mg",
+    "price": ""
+  },
+  {
+    "row": 104,
+    "name": "Sumitop",
+    "generic": "Sumatriptan Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 105,
+    "name": "Sumitop",
+    "generic": "Sumatriptan Tablets",
+    "dosage": "50mg",
+    "price": ""
+  },
+  {
+    "row": 106,
+    "name": "Valclovir",
+    "generic": "Valacyclovir Tablets",
+    "dosage": "500mg",
+    "price": ""
+  },
+  {
+    "row": 107,
+    "name": "Valclovir",
+    "generic": "Valacyclovir Tablets",
+    "dosage": "1000mg",
+    "price": ""
+  },
+  {
+    "row": 108,
+    "name": "Centrex",
+    "generic": "Valacyclovir Tablets",
+    "dosage": "500mg",
+    "price": ""
+  },
+  {
+    "row": 109,
+    "name": "Centrex",
+    "generic": "Valacyclovir Tablets",
+    "dosage": "1000mg",
+    "price": ""
+  },
+  {
+    "row": 110,
+    "name": "Lovegra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100 mg",
+    "price": ""
+  },
+  {
+    "row": 111,
+    "name": "Femalegra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100 mg",
+    "price": ""
+  },
+  {
+    "row": 112,
+    "name": "Female Up",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 113,
+    "name": "Femalefil",
+    "generic": "Tadalafil Tablets",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 114,
+    "name": "Snovitra",
+    "generic": "Vardenafil Tablets",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 115,
+    "name": "Snovitra",
+    "generic": "Vardenafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 116,
+    "name": "Snovitra Strong",
+    "generic": "Vardenafil Tablets",
+    "dosage": "40mg",
+    "price": ""
+  },
+  {
+    "row": 117,
+    "name": "Snovitra XL",
+    "generic": "Vardenafil Tablets",
+    "dosage": "60mg",
+    "price": ""
+  },
+  {
+    "row": 118,
+    "name": "Snovitra Super Power",
+    "generic": "Vardenafil & Dapoxetine Tablets",
+    "dosage": "20/60mg",
+    "price": ""
+  },
+  {
+    "row": 119,
+    "name": "Sexforce Oral Jelly",
+    "generic": "Sildenafil Oral Jelly",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 120,
+    "name": "Apcalis",
+    "generic": "Oral Jelly Tadalafil",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 121,
+    "name": "Filitra jelly",
+    "generic": "Vardenafil",
+    "dosage": "20 mg",
+    "price": ""
+  },
+  {
+    "row": 122,
+    "name": "Vidalista",
+    "generic": "Tadalafil Tablets",
+    "dosage": "2.5mg",
+    "price": 3.05
+  },
+  {
+    "row": 123,
+    "name": "Vidalista",
+    "generic": "Tadalafil Tablets",
+    "dosage": "5mg",
+    "price": 3.1
+  },
+  {
+    "row": 124,
+    "name": "Vidalista",
+    "generic": "Tadalafil Tablets",
+    "dosage": "10mg",
+    "price": 3.25
+  },
+  {
+    "row": 125,
+    "name": "Vidalista",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": 3.9
+  },
+  {
+    "row": 126,
+    "name": "Vidalista",
+    "generic": "Tadalafil Tablets",
+    "dosage": "40mg",
+    "price": 5.49
+  },
+  {
+    "row": 127,
+    "name": "Vidalista",
+    "generic": "Tadalafil Tablets",
+    "dosage": "60mg",
+    "price": 5.45
+  },
+  {
+    "row": 128,
+    "name": "Vidalista",
+    "generic": "Tadalafil Tablets (Black)",
+    "dosage": "80 mg",
+    "price": 8
+  },
+  {
+    "row": 129,
+    "name": "Vidalista",
+    "generic": "CT",
+    "dosage": "20 mg",
+    "price": 4.05
+  },
+  {
+    "row": 130,
+    "name": "Vidalista",
+    "generic": "Tadalafil Tablets",
+    "dosage": "80 mg",
+    "price": 8.5
+  },
+  {
+    "row": 131,
+    "name": "Super Vidalista",
+    "generic": "Tadalafil & Dapoxentine Tablets",
+    "dosage": "20/60mg",
+    "price": "z"
+  },
+  {
+    "row": 132,
+    "name": "Super Lash",
+    "generic": "Bimatoprost Ophthalmic Solution",
+    "dosage": "3ml",
+    "price": ""
+  },
+  {
+    "row": 133,
+    "name": "Asthalin Inhaler",
+    "generic": "",
+    "dosage": "200Dose",
+    "price": ""
+  },
+  {
+    "row": 134,
+    "name": "Asthalin",
+    "generic": "Salbutamol Sulphate Tablets",
+    "dosage": "2mg",
+    "price": ""
+  },
+  {
+    "row": 135,
+    "name": "Asthalin",
+    "generic": "Salbutamol Sulphate Tablets",
+    "dosage": "4mg",
+    "price": ""
+  },
+  {
+    "row": 136,
+    "name": "Doxycycline Capsules",
+    "generic": "",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 137,
+    "name": "Frusenex",
+    "generic": "Frusemide Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 138,
+    "name": "Lasix",
+    "generic": "Frusemide Tablets",
+    "dosage": "40mg",
+    "price": ""
+  },
+  {
+    "row": 139,
+    "name": "Metroga",
+    "generic": "Metronidazole Tablets",
+    "dosage": "400mg",
+    "price": ""
+  },
+  {
+    "row": 140,
+    "name": "Omnacortil",
+    "generic": "Prednisolone Dispersible Tablets",
+    "dosage": "40mg",
+    "price": ""
+  },
+  {
+    "row": 141,
+    "name": "Ventocortil",
+    "generic": "Prednisolone Tablets",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 142,
+    "name": "Walcephanse",
+    "generic": "Metformin Hydrochloride Tablets",
+    "dosage": "500mg",
+    "price": ""
+  },
+  {
+    "row": 143,
+    "name": "Modalert",
+    "generic": "Modafinil",
+    "dosage": "200mg",
+    "price": 27
+  },
+  {
+    "row": 144,
+    "name": "Waklert",
+    "generic": "Armodafinil",
+    "dosage": "150mg",
+    "price": 27
+  },
+  {
+    "row": 145,
+    "name": "Artvigil",
+    "generic": "Armodafinil",
+    "dosage": "150mg",
+    "price": 11.52
+  },
+  {
+    "row": 146,
+    "name": "Modvigil",
+    "generic": "Modafinil Tablets",
+    "dosage": "200mg",
+    "price": 7.5
+  },
+  {
+    "row": 147,
+    "name": "Modactive",
+    "generic": "Modafinil Tablets",
+    "dosage": "200mg",
+    "price": ""
+  },
+  {
+    "row": 148,
+    "name": "Tamodex",
+    "generic": "Tamoxifen",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 149,
+    "name": "Tamilong 20",
+    "generic": "Tamoxifen",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 150,
+    "name": "Premarin",
+    "generic": "",
+    "dosage": "0.625mg",
+    "price": ""
+  },
+  {
+    "row": 151,
+    "name": "Mormox",
+    "generic": "Amoxcicllin",
+    "dosage": "0.625mg",
+    "price": ""
+  },
+  {
+    "row": 152,
+    "name": "Buproban",
+    "generic": "",
+    "dosage": "150mg",
+    "price": ""
+  },
+  {
+    "row": 153,
+    "name": "Hypernil",
+    "generic": "",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 154,
+    "name": "Vemox",
+    "generic": "",
+    "dosage": "250mg",
+    "price": ""
+  },
+  {
+    "row": 155,
+    "name": "Orligal",
+    "generic": "Orlistat Capsules USP",
+    "dosage": "120mg",
+    "price": ""
+  },
+  {
+    "row": 156,
+    "name": "Cotrip",
+    "generic": "Amitriptyline Hydrochloride Tablets",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 157,
+    "name": "Cotrip",
+    "generic": "Amitriptyline Hydrochloride Tablets",
+    "dosage": "25mg",
+    "price": ""
+  },
+  {
+    "row": 158,
+    "name": "Cotrip",
+    "generic": "Amitriptyline Hydrochloride Tablets",
+    "dosage": "75mg",
+    "price": ""
+  },
+  {
+    "row": 159,
+    "name": "Ventocortil",
+    "generic": "Prednisolone Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 160,
+    "name": "Zoviclovir",
+    "generic": "Acyclovir Tablets",
+    "dosage": "800mg",
+    "price": ""
+  },
+  {
+    "row": 161,
+    "name": "Zoviclovir",
+    "generic": "Acyclovir Tablets",
+    "dosage": "400mg",
+    "price": ""
+  },
+  {
+    "row": 162,
+    "name": "Tadapox",
+    "generic": "Tadalafil & Dapoxentine Tablets",
+    "dosage": "20/60mg",
+    "price": 15
+  },
+  {
+    "row": 163,
+    "name": "Super Tadapox",
+    "generic": "Tadalafil& Dapoxetine",
+    "dosage": "",
+    "price": 15.54
+  },
+  {
+    "row": 164,
+    "name": "Malegra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": 3.4
+  },
+  {
+    "row": 165,
+    "name": "Malegra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "200mg",
+    "price": 5.3
+  },
+  {
+    "row": 166,
+    "name": "Malegra FXT",
+    "generic": "Sildenafil & Floxetine",
+    "dosage": "",
+    "price": 9.5
+  },
+  {
+    "row": 167,
+    "name": "Malegra DXT",
+    "generic": "Sildenafil & Duloxetine",
+    "dosage": "",
+    "price": 9.35
+  },
+  {
+    "row": 168,
+    "name": "Anaridex",
+    "generic": "",
+    "dosage": "1mg",
+    "price": ""
+  },
+  {
+    "row": 169,
+    "name": "Caverta",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": 62
+  },
+  {
+    "row": 170,
+    "name": "Cernos Gel",
+    "generic": "Testosterone Gel",
+    "dosage": "5g",
+    "price": ""
+  },
+  {
+    "row": 171,
+    "name": "Fildena",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": 3.4
+  },
+  {
+    "row": 172,
+    "name": "Fildena",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "150mg",
+    "price": 4.2
+  },
+  {
+    "row": 173,
+    "name": "Fildena Professional",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": 4.4
+  },
+  {
+    "row": 174,
+    "name": "Fildena Super Active",
+    "generic": "Sildenafil Softgel Capsule",
+    "dosage": "100mg",
+    "price": 4.4
+  },
+  {
+    "row": 175,
+    "name": "Fildena Extra power",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "150mg",
+    "price": 5.2
+  },
+  {
+    "row": 176,
+    "name": "Tadalista Super Active",
+    "generic": "Tadalafil Soft Gelatin Capsule",
+    "dosage": "20mg",
+    "price": 4.75
+  },
+  {
+    "row": 177,
+    "name": "Tadalista",
+    "generic": "Tadalafil Tablets",
+    "dosage": "5mg",
+    "price": 3.3
+  },
+  {
+    "row": 178,
+    "name": "Tadalista",
+    "generic": "Tadalafil Tablets",
+    "dosage": "10mg",
+    "price": 3.3
+  },
+  {
+    "row": 179,
+    "name": "Tadalista",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": 3.55
+  },
+  {
+    "row": 180,
+    "name": "Tadalista",
+    "generic": "Tadalafil Tablets",
+    "dosage": "40mg",
+    "price": 4.5
+  },
+  {
+    "row": 181,
+    "name": "Tadalista",
+    "generic": "Tadalafil Tablets",
+    "dosage": "60mg",
+    "price": 5.65
+  },
+  {
+    "row": 182,
+    "name": "Super Tadalista",
+    "generic": "Tadalafil& Dapoxetine",
+    "dosage": "20 mg",
+    "price": 13
+  },
+  {
+    "row": 183,
+    "name": "Testoheal",
+    "generic": "Testosterone Undecanoate Softgel Capsules",
+    "dosage": "40mg",
+    "price": ""
+  },
+  {
+    "row": 184,
+    "name": "Topaheal",
+    "generic": "Topiramate Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 185,
+    "name": "Sildalist",
+    "generic": "Sildenafil Citrate & Tadalafil Tablets",
+    "dosage": "100/20mg",
+    "price": 8.7
+  },
+  {
+    "row": 186,
+    "name": "Vigore",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 187,
+    "name": "Suhagra",
+    "generic": "",
+    "dosage": "25 mg",
+    "price": 4.75
+  },
+  {
+    "row": 188,
+    "name": "Suhagra",
+    "generic": "",
+    "dosage": "50 mg",
+    "price": 4.75
+  },
+  {
+    "row": 189,
+    "name": "Suhagra",
+    "generic": "",
+    "dosage": "100mg",
+    "price": 6
+  },
+  {
+    "row": 190,
+    "name": "Aurogra",
+    "generic": "",
+    "dosage": "100mg",
+    "price": 3.6
+  },
+  {
+    "row": 191,
+    "name": "Sildamax",
+    "generic": "Sildenafil Citrate",
+    "dosage": "100mg",
+    "price": 4.89
+  },
+  {
+    "row": 192,
+    "name": "Silagra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 193,
+    "name": "Vega",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 194,
+    "name": "Ericta",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 195,
+    "name": "Zenegra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 196,
+    "name": "Cobra",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "120 mg",
+    "price": 5.2
+  },
+  {
+    "row": 197,
+    "name": "Leeforce",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 198,
+    "name": "Super P Force",
+    "generic": "Sildenafil & Dapoxentine Tablets",
+    "dosage": "100/60mg",
+    "price": 20.15
+  },
+  {
+    "row": 199,
+    "name": "Extra Super p Force",
+    "generic": "Sildenafil & Dapoxentine Tablets",
+    "dosage": "200 mg",
+    "price": 29
+  },
+  {
+    "row": 200,
+    "name": "Poxet",
+    "generic": "Dapoxetine",
+    "dosage": "30mg",
+    "price": 10
+  },
+  {
+    "row": 201,
+    "name": "Poxet",
+    "generic": "Dapoxetine",
+    "dosage": "60mg",
+    "price": 14.5
+  },
+  {
+    "row": 202,
+    "name": "Poxet",
+    "generic": "Dapoxetine",
+    "dosage": "90mg",
+    "price": 17.4
+  },
+  {
+    "row": 203,
+    "name": "VRILIGY",
+    "generic": "Dapoxetine",
+    "dosage": "60mg",
+    "price": ""
+  },
+  {
+    "row": 204,
+    "name": "Cabgoline 0.5",
+    "generic": "Cabergoline",
+    "dosage": "0.5",
+    "price": ""
+  },
+  {
+    "row": 205,
+    "name": "Cabgoline 0.25",
+    "generic": "Cabergoline",
+    "dosage": "0.25",
+    "price": ""
+  },
+  {
+    "row": 206,
+    "name": "Clindamycine",
+    "generic": "Clindamycine",
+    "dosage": "300 mg",
+    "price": ""
+  },
+  {
+    "row": 207,
+    "name": "Sertima 100 mg",
+    "generic": "sertaline",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 208,
+    "name": "Zovirax 400 mg",
+    "generic": "Aciclovir",
+    "dosage": "400mg",
+    "price": ""
+  },
+  {
+    "row": 209,
+    "name": "Zovirax 800 mg",
+    "generic": "Aciclovir",
+    "dosage": "800mg",
+    "price": ""
+  },
+  {
+    "row": 210,
+    "name": "Dulata",
+    "generic": "Duloexetine",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 211,
+    "name": "Dulata",
+    "generic": "Duloexetine",
+    "dosage": "30mg",
+    "price": ""
+  },
+  {
+    "row": 212,
+    "name": "Dulata",
+    "generic": "Duloexetine",
+    "dosage": "40mg",
+    "price": ""
+  },
+  {
+    "row": 213,
+    "name": "Dulata",
+    "generic": "Duloexetine",
+    "dosage": "60mg",
+    "price": ""
+  },
+  {
+    "row": 214,
+    "name": "Seroquit",
+    "generic": "Quetiapine",
+    "dosage": "25mg",
+    "price": ""
+  },
+  {
+    "row": 215,
+    "name": "Seroquit",
+    "generic": "Quetiapine",
+    "dosage": "50mg",
+    "price": ""
+  },
+  {
+    "row": 216,
+    "name": "Seroquit",
+    "generic": "Quetiapine",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 217,
+    "name": "Clenbuterol",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 218,
+    "name": "Ivermectin 12",
+    "generic": "",
+    "dosage": "12mg",
+    "price": ""
+  },
+  {
+    "row": 219,
+    "name": "Azeetop",
+    "generic": "",
+    "dosage": "500mg",
+    "price": ""
+  },
+  {
+    "row": 220,
+    "name": "Vidalista Professional",
+    "generic": "",
+    "dosage": "",
+    "price": 4
+  },
+  {
+    "row": 221,
+    "name": "Cenforce Soft",
+    "generic": "",
+    "dosage": "100mg",
+    "price": 5.3
+  },
+  {
+    "row": 222,
+    "name": "Neuro - Seliron 300mg",
+    "generic": "",
+    "dosage": "300mg",
+    "price": 6.35
+  },
+  {
+    "row": 223,
+    "name": "Emectin 12mg",
+    "generic": "Ivermectin Tablets",
+    "dosage": "12mg",
+    "price": ""
+  },
+  {
+    "row": 224,
+    "name": "Avana 100mg",
+    "generic": "Avanafil Tablets",
+    "dosage": "100mg",
+    "price": 47
+  },
+  {
+    "row": 225,
+    "name": "Tritin 60mg",
+    "generic": "Fluoxetine Capsules",
+    "dosage": "60mg",
+    "price": ""
+  },
+  {
+    "row": 226,
+    "name": "Valif 20mg",
+    "generic": "Vardenafil Tablets",
+    "dosage": "20mg",
+    "price": 12
+  },
+  {
+    "row": 227,
+    "name": "Vilitra 10mg",
+    "generic": "Vardenafil Tablets",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 228,
+    "name": "Vriligy 60mg",
+    "generic": "Dapoxetine Tablets",
+    "dosage": "60mg",
+    "price": ""
+  },
+  {
+    "row": 229,
+    "name": "Zoviclovir 200mg",
+    "generic": "Acyclovir Tablets",
+    "dosage": "200mg",
+    "price": ""
+  },
+  {
+    "row": 230,
+    "name": "Glycoheal 1000mg",
+    "generic": "Metformin Hydrochloride Sustained Release",
+    "dosage": "1000mg",
+    "price": ""
+  },
+  {
+    "row": 231,
+    "name": "Healtroxin 100mg",
+    "generic": "Thyroxine Sodium Tablets",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 232,
+    "name": "Iverheal 6mg",
+    "generic": "Ivermectin Tablets",
+    "dosage": "6mg",
+    "price": ""
+  },
+  {
+    "row": 233,
+    "name": "Kamagra Gold 50mg",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "50mg",
+    "price": ""
+  },
+  {
+    "row": 234,
+    "name": "Malegra DXT 100/30mg",
+    "generic": "Sildenafil with Duloxentine Tablets",
+    "dosage": "100/30mg",
+    "price": ""
+  },
+  {
+    "row": 235,
+    "name": "P-NOLOL 20mg",
+    "generic": "Propranolol Hydrochloride Tablets I.P.",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 236,
+    "name": "Gabatop 100mg",
+    "generic": "Gabapentin Capsule",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 237,
+    "name": "P-NOLOL 10mg",
+    "generic": "Propranolol Hydrochloride Tablets I.P.",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 238,
+    "name": "Phalexin 500mg",
+    "generic": "Cephalexin Capsules I.P.",
+    "dosage": "500mg",
+    "price": ""
+  },
+  {
+    "row": 239,
+    "name": "Predniheal 20mg",
+    "generic": "Prednisolone Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 240,
+    "name": "Sertafine 100mg",
+    "generic": "Sertraline Hydrochloride Tablets IP",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 241,
+    "name": "Super Vilitra 20/60mg",
+    "generic": "Vardenafil & Dapoxetine Tablets",
+    "dosage": "20/60mg",
+    "price": ""
+  },
+  {
+    "row": 242,
+    "name": "Tamsuhealn 0.4mg",
+    "generic": "Tamsulosin HCI Modified Release",
+    "dosage": "0.4mg",
+    "price": ""
+  },
+  {
+    "row": 243,
+    "name": "Tritin 40mg",
+    "generic": "Fluoxetine Tablets",
+    "dosage": "40mg",
+    "price": ""
+  },
+  {
+    "row": 244,
+    "name": "Tetracin 500mg",
+    "generic": "Tetracycline Hydrochloride Capsules IP",
+    "dosage": "500mg",
+    "price": ""
+  },
+  {
+    "row": 245,
+    "name": "Accufine 10mg",
+    "generic": "Isotretinion Capsules IP",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 246,
+    "name": "Accufine 5mg",
+    "generic": "Isotretinion Capsules IP",
+    "dosage": "5mg",
+    "price": ""
+  },
+  {
+    "row": 247,
+    "name": "Atomoxet 10mg",
+    "generic": "Atomoxetine Tablets",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 248,
+    "name": "Atomoxet 18mg",
+    "generic": "Atomoxetine Tablets",
+    "dosage": "18mg",
+    "price": ""
+  },
+  {
+    "row": 249,
+    "name": "Azeetop 250mg",
+    "generic": "Azithromycin Tablets",
+    "dosage": "250mg",
+    "price": ""
+  },
+  {
+    "row": 250,
+    "name": "Augmine 1000mg",
+    "generic": "",
+    "dosage": "1000mg",
+    "price": ""
+  },
+  {
+    "row": 251,
+    "name": "Augmine 375mg",
+    "generic": "",
+    "dosage": "375mg",
+    "price": ""
+  },
+  {
+    "row": 252,
+    "name": "Cadiwin 250mg",
+    "generic": "",
+    "dosage": "250mg",
+    "price": ""
+  },
+  {
+    "row": 253,
+    "name": "Cetram 10mg",
+    "generic": "",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 254,
+    "name": "Citapad 20mg",
+    "generic": "",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 255,
+    "name": "Cotrimoxazole Ds",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 256,
+    "name": "Cronotol 250mg",
+    "generic": "",
+    "dosage": "250mg",
+    "price": ""
+  },
+  {
+    "row": 257,
+    "name": "Davlexin 250mg",
+    "generic": "",
+    "dosage": "250mg",
+    "price": ""
+  },
+  {
+    "row": 258,
+    "name": "Esoprol 20mg",
+    "generic": "",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 259,
+    "name": "Estraheal 2mg",
+    "generic": "",
+    "dosage": "2mg",
+    "price": ""
+  },
+  {
+    "row": 260,
+    "name": "Floxip 500mg",
+    "generic": "",
+    "dosage": "500mg",
+    "price": ""
+  },
+  {
+    "row": 261,
+    "name": "Fluconaz 50mg",
+    "generic": "",
+    "dosage": "50mg",
+    "price": ""
+  },
+  {
+    "row": 262,
+    "name": "Fluty 20mg",
+    "generic": "",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 263,
+    "name": "Frasix 100mg",
+    "generic": "",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 264,
+    "name": "Letroheal 2.5mg",
+    "generic": "Letrozole Tablets",
+    "dosage": "2.5mg",
+    "price": ""
+  },
+  {
+    "row": 265,
+    "name": "Sildigra Gold 200mg",
+    "generic": "Sildenafil Citrate Tablets",
+    "dosage": "200mg",
+    "price": ""
+  },
+  {
+    "row": 266,
+    "name": "Tamoxilon 20mg",
+    "generic": "Tamoxifen Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 267,
+    "name": "Flt 10mg",
+    "generic": "Fluoxentine Hydrochloride Tablets",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 268,
+    "name": "Healpecia 5mg",
+    "generic": "Finasteride Tablets",
+    "dosage": "5mg",
+    "price": ""
+  },
+  {
+    "row": 269,
+    "name": "Healpecia 1mg",
+    "generic": "Finasteride Tablets",
+    "dosage": "1mg",
+    "price": ""
+  },
+  {
+    "row": 270,
+    "name": "Predniheal 10mg",
+    "generic": "Prednisolone Tablets",
+    "dosage": "10mg",
+    "price": ""
+  },
+  {
+    "row": 271,
+    "name": "Tadagra Soft 20mg",
+    "generic": "Tadalafil Tablets",
+    "dosage": "20mg",
+    "price": ""
+  },
+  {
+    "row": 272,
+    "name": "Lovegra Jelly",
+    "generic": "",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 273,
+    "name": "Tretiheal CREAM 0.025%",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 274,
+    "name": "Eriacta 100mg",
+    "generic": "",
+    "dosage": "100mg",
+    "price": ""
+  },
+  {
+    "row": 275,
+    "name": "Zunestar 2mg",
+    "generic": "Eszopiclone",
+    "dosage": "2mg",
+    "price": ""
+  },
+  {
+    "row": 276,
+    "name": "Escitalopram 10mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 277,
+    "name": "Zunestar 3mg",
+    "generic": "",
+    "dosage": "3mg",
+    "price": ""
+  },
+  {
+    "row": 278,
+    "name": "Hqcheal 200mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 279,
+    "name": "Avimax 25mg",
+    "generic": "",
+    "dosage": "25mg",
+    "price": ""
+  },
+  {
+    "row": 280,
+    "name": "Paracip 650mg",
+    "generic": "",
+    "dosage": "650mg",
+    "price": ""
+  },
+  {
+    "row": 281,
+    "name": "Topnite 3mg",
+    "generic": "Eszopiclone",
+    "dosage": "3mg",
+    "price": ""
+  },
+  {
+    "row": 282,
+    "name": "Topnite 2mg",
+    "generic": "Eszopiclone",
+    "dosage": "2mg",
+    "price": ""
+  },
+  {
+    "row": 283,
+    "name": "Careprost 3ml",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 284,
+    "name": "Trtiheal 20gm 0.05%",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 285,
+    "name": "Super Kamagra Oral Jelly",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 286,
+    "name": "Puretrig 5000IU",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 287,
+    "name": "Walapan 40mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 288,
+    "name": "Iverheal 3mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 289,
+    "name": "Betablock CL-50mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 290,
+    "name": "Amlode 10mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 291,
+    "name": "Vominorm 10mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 292,
+    "name": "Leemol 500mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 293,
+    "name": "Glimith 2mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 294,
+    "name": "Celeheal 100mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 295,
+    "name": "P-NOLOL 40mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 296,
+    "name": "Gabasign 400mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 297,
+    "name": "Gabasign 800mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 298,
+    "name": "Ovidac 10k",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 299,
+    "name": "Lexaheal 10mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 300,
+    "name": "Sustanon 250mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 301,
+    "name": "HQ-STAR 200mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 302,
+    "name": "Iveroot 12mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 303,
+    "name": "Reactin 100mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 304,
+    "name": "Axepta 60mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 305,
+    "name": "Lquin 500mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 306,
+    "name": "Zunestar 2mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 307,
+    "name": "Vilafinil 200mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 308,
+    "name": "Predniheal 40mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 309,
+    "name": "Silvitra 120mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 310,
+    "name": "Trazocan 100mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 311,
+    "name": "Clenn-Burn 40mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 312,
+    "name": "CYPROHEPTADINE-4MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 313,
+    "name": "Budecort 1mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 314,
+    "name": "Carisoma 532mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 315,
+    "name": "Careforce 100mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 316,
+    "name": "Acivir Cream",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 317,
+    "name": "Tretiheal 20gm 0.1%",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 318,
+    "name": "Clomisign 50mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 319,
+    "name": "Lexaheal 20mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 320,
+    "name": "Trinex 2mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 321,
+    "name": "Baclosign 10mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 322,
+    "name": "Baclosign 25mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 323,
+    "name": "flexabenz 5mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 324,
+    "name": "Hypnite 3mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 325,
+    "name": "Raloxiheal 60mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 326,
+    "name": "Fluconaz 200mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 327,
+    "name": "ZYLOMOX-CV 625mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 328,
+    "name": "Dapoforce 60mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 329,
+    "name": "AMOXYHEAL CV 1000MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 330,
+    "name": "BACLOHEAL 10MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 331,
+    "name": "FIBAN 100MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 332,
+    "name": "CELEHEAL 200MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 333,
+    "name": "BEGMA 200MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 334,
+    "name": "ampicilin 500mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 335,
+    "name": "trinex 2 mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 336,
+    "name": "arkacan 100mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 337,
+    "name": "IVERJON 12 MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 338,
+    "name": "MAHAGRA 100MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 339,
+    "name": "MAHAGRA 200MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 340,
+    "name": "ARCHITOL 6L",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 341,
+    "name": "DOLO 650MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 342,
+    "name": "RIVASMART 20MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 343,
+    "name": "VEGA EXTRA COBRAT 120MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 344,
+    "name": "asthlin inhealer 100mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 345,
+    "name": "FLUXICAN 60MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 346,
+    "name": "FRASIX 40 MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 347,
+    "name": "FLUCONAZ 200MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 348,
+    "name": "DOSTIHEAL",
+    "generic": "0.5MG",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 349,
+    "name": "IVERVID 12MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 350,
+    "name": "IVERVID 6 MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 351,
+    "name": "IVERJON 6 MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 352,
+    "name": "ZOPICARE 10MG",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  },
+  {
+    "row": 353,
+    "name": "Tofisopam 50mg",
+    "generic": "",
+    "dosage": "",
+    "price": ""
+  }
+]

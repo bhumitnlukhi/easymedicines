@@ -1,0 +1,1845 @@
+{
+  "cenforce": {
+    "manufacturer": "Centurion Laboratories Pvt. Ltd.",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "10 tablets (strips/boxes of 10x10 common)",
+    "prescriptionRequired": true,
+    "shortDescription": "PDE5-inhibitor tablet brand used for erectile dysfunction. Widely listed Indian export ED line.",
+    "storage": "Store below 30°C; protect from moisture and light.",
+    "sources": [
+      "https://www.centurionlaboratories.com/",
+      "https://www.centurionlaboratories.com/sildenafil-tablets-and-oral-jelly.html"
+    ]
+  },
+  "kamagra": {
+    "manufacturer": "Ajanta Pharma Ltd.",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4 tablets / oral jelly sachets (7x5 g common)",
+    "prescriptionRequired": true,
+    "shortDescription": "Ajanta sildenafil brand available as tablets, chewables, and oral jelly for erectile dysfunction.",
+    "storage": "Store below 30°C in a dry place.",
+    "sources": [
+      "https://tsurukame-import.net/images/kamagragold-package_insert.pdf",
+      "https://www.medindia.net/drug-price/sildenafil.htm"
+    ]
+  },
+  "vidalista": {
+    "manufacturer": "Centurion Laboratories Pvt. Ltd.",
+    "genericName": "Tadalafil",
+    "activeIngredients": [
+      "tadalafil"
+    ],
+    "typicalPackSize": "10 tablets (10x10 boxes common)",
+    "prescriptionRequired": true,
+    "shortDescription": "Centurion tadalafil tablets for erectile dysfunction, offered in multiple strengths and formats.",
+    "storage": "Store below 30°C; protect from moisture.",
+    "sources": [
+      "https://www.centurionlaboratories.com/",
+      "https://fortunehealthcareproduct.com/wp-content/uploads/2024/10/ED-Products.pdf"
+    ]
+  },
+  "fildena": {
+    "manufacturer": "Fortune Healthcare Product Pvt. Ltd.",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "10 tablets (also CT/professional packs)",
+    "prescriptionRequired": true,
+    "shortDescription": "Fortune Healthcare sildenafil brand for erectile dysfunction, including standard, chewable, and combo variants.",
+    "storage": "Store in a cool, dry place away from direct sunlight.",
+    "sources": [
+      "https://fortunehealthcareproduct.com/product/fildena100/",
+      "https://fortunehealthcareproduct.com/wp-content/uploads/2025/08/fortune-products-list.pdf"
+    ]
+  },
+  "malegra": {
+    "manufacturer": "Sunrise Remedies Pvt. Ltd.",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4–10 tablets / oral jelly sachets",
+    "prescriptionRequired": true,
+    "shortDescription": "Sunrise Remedies sildenafil line for erectile dysfunction, including soft and combination products.",
+    "storage": "Store below 30°C; keep dry.",
+    "sources": [
+      "http://poxet.in/product.html",
+      "https://sunriseremedies.in/"
+    ]
+  },
+  "tadalista": {
+    "manufacturer": "Fortune Healthcare Product Pvt. Ltd.",
+    "genericName": "Tadalafil",
+    "activeIngredients": [
+      "tadalafil"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Fortune Healthcare tadalafil brand for erectile dysfunction across several strengths and formats.",
+    "storage": "Store below 30°C; protect from moisture.",
+    "sources": [
+      "https://fortunehealthcareproduct.com/wp-content/uploads/2025/08/fortune-products-list.pdf",
+      "https://fortunehealthcareproduct.com/wp-content/uploads/2024/10/ED-Products.pdf"
+    ]
+  },
+  "tadarise": {
+    "manufacturer": "Sunrise Remedies Pvt. Ltd.",
+    "genericName": "Tadalafil",
+    "activeIngredients": [
+      "tadalafil"
+    ],
+    "typicalPackSize": "10 tablets / oral jelly sachets",
+    "prescriptionRequired": true,
+    "shortDescription": "Sunrise tadalafil brand marketed for erectile dysfunction in tablet and jelly forms.",
+    "storage": "Store in a cool, dry place.",
+    "sources": [
+      "https://sunriseremedies.in/our-products/tadarise/"
+    ]
+  },
+  "sildigra": {
+    "manufacturer": "RSM Enterprises / various exporters (listings vary)",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Export sildenafil brand family sold in multiple strengths and softgel formats for erectile dysfunction.",
+    "storage": "Store below 30°C; protect from moisture.",
+    "confidence": "low",
+    "sources": [
+      "https://www.get-a-med.com/erectile-dysfunction-medicine.html",
+      "exporter listings (RSM)"
+    ]
+  },
+  "suhagra": {
+    "manufacturer": "Cipla Ltd.",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Cipla sildenafil tablets commonly prescribed in India for erectile dysfunction.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.medindia.net/drug-price/sildenafil.htm",
+      "https://wirelesslifesciences.org/2025/08/best-viagra-sildenafil-tablet-brands-in-india-2025-guide/"
+    ]
+  },
+  "silagra": {
+    "manufacturer": "Cipla Ltd.",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Cipla sildenafil brand for erectile dysfunction, parallel to Suhagra in the domestic market.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.medindia.net/drug-price/sildenafil.htm"
+    ]
+  },
+  "caverta": {
+    "manufacturer": "Sun Pharmaceutical Industries Ltd. (formerly Ranbaxy)",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Sun Pharma sildenafil tablets for erectile dysfunction available in standard Indian pharmacy strengths.",
+    "storage": "Store below 30°C; protect from light and moisture.",
+    "sources": [
+      "https://www.medindia.net/drug-price/sildenafil.htm",
+      "1mg/pharmacy listings"
+    ]
+  },
+  "aurogra": {
+    "manufacturer": "Aurochem Pharmaceuticals Pvt. Ltd.",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Aurochem sildenafil tablets marketed for erectile dysfunction in export and wholesale channels.",
+    "storage": "Store in a cool, dry place.",
+    "sources": [
+      "https://www.indiamart.com/proddetail/100mg-aurogra-sildenafil-tablet-26003522512.html"
+    ]
+  },
+  "zenegra": {
+    "manufacturer": "Alkem Laboratories Ltd.",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Alkem sildenafil brand used for erectile dysfunction in the Indian retail market.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.medindia.net/drug-price/sildenafil.htm"
+    ]
+  },
+  "vega": {
+    "manufacturer": "Signature Phytochemical Industries / HAB-associated listings",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4 tablets (Cobra Vega Extra often 5)",
+    "prescriptionRequired": true,
+    "shortDescription": "Sildenafil tablet brand family (often Vega/Cobra Vega) sold via export ED channels.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "exporter listings (Signature/Vega)",
+      "https://www.get-a-med.com/erectile-dysfunction-medicine.html"
+    ]
+  },
+  "eriacta/ericta": {
+    "manufacturer": "Ranbaxy / Sun Pharmaceutical Industries Ltd. (historic Ranbaxy brand)",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Older Ranbaxy/Sun sildenafil brand for erectile dysfunction; still seen in export catalogs as Eriacta/Ericta.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "exporter listings attributing Ranbaxy",
+      "https://www.medindia.net/drug-price/sildenafil.htm"
+    ]
+  },
+  "sildalist": {
+    "manufacturer": "Parex Pharmaceuticals / Shreen Pharma (listings vary)",
+    "genericName": "Sildenafil citrate + tadalafil",
+    "activeIngredients": [
+      "sildenafil citrate",
+      "tadalafil"
+    ],
+    "typicalPackSize": "6–10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Fixed-dose PDE5 combination tablets pairing sildenafil with tadalafil for erectile dysfunction.",
+    "storage": "Store below 30°C; protect from moisture.",
+    "confidence": "low",
+    "sources": [
+      "exporter listings (Parex/Shreen)",
+      "catalog compositions"
+    ]
+  },
+  "poxet": {
+    "manufacturer": "Sunrise Remedies Pvt. Ltd.",
+    "genericName": "Dapoxetine",
+    "activeIngredients": [
+      "dapoxetine"
+    ],
+    "typicalPackSize": "4–10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Sunrise dapoxetine tablets used for premature ejaculation management.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "http://www.poxet.in/index.html",
+      "http://poxet.in/product.html"
+    ]
+  },
+  "vriligy": {
+    "manufacturer": "Centurion Laboratories Pvt. Ltd.",
+    "genericName": "Dapoxetine",
+    "activeIngredients": [
+      "dapoxetine"
+    ],
+    "typicalPackSize": "10 tablets (10x10 boxes)",
+    "prescriptionRequired": true,
+    "shortDescription": "Centurion dapoxetine brand for premature ejaculation, often listed at 60 mg.",
+    "storage": "Store below 30°C; shelf life commonly ~24 months.",
+    "sources": [
+      "https://www.centurionlaboratories.com/erectile-dysfunction-medicine.html"
+    ]
+  },
+  "super p force": {
+    "manufacturer": "Sunrise Remedies Pvt. Ltd.",
+    "genericName": "Sildenafil citrate + dapoxetine",
+    "activeIngredients": [
+      "sildenafil citrate",
+      "dapoxetine"
+    ],
+    "typicalPackSize": "4 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Combination tablet pairing sildenafil with dapoxetine for erectile dysfunction and premature ejaculation.",
+    "storage": "Store below 30°C in a dry place.",
+    "sources": [
+      "http://poxet.in/product.html",
+      "https://www.actizapharmaceutical.com/product/super-p-force-supplier/"
+    ]
+  },
+  "tadaga": {
+    "manufacturer": "RSM Multilink / Sunrise Remedies (listings vary)",
+    "genericName": "Tadalafil",
+    "activeIngredients": [
+      "tadalafil"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Export tadalafil brand family sold in multiple strengths for erectile dysfunction.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "https://www.pharmalaneexports.com/erectile-dysfunction-products.html"
+    ]
+  },
+  "tadalis": {
+    "manufacturer": "Ajanta Pharma Ltd. (Tadalis SX)",
+    "genericName": "Tadalafil",
+    "activeIngredients": [
+      "tadalafil"
+    ],
+    "typicalPackSize": "4 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Ajanta tadalafil brand (Tadalis/Tadalis SX) for erectile dysfunction.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://newagepills.com/product/tadalis-sx-20-mg/",
+      "Ajanta ED portfolio references"
+    ]
+  },
+  "tadagra": {
+    "manufacturer": "RSM Enterprises / Centurion Remedies (listings vary)",
+    "genericName": "Tadalafil",
+    "activeIngredients": [
+      "tadalafil"
+    ],
+    "typicalPackSize": "10 tablets / softgels",
+    "prescriptionRequired": true,
+    "shortDescription": "Export tadalafil line including soft, strong, and professional variants for erectile dysfunction.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "https://www.global-pharmacy.in/tadagra-strong-40mg-tablets.htm",
+      "https://www.skyimpexint.com/ed-medicine.html"
+    ]
+  },
+  "tadasoft": {
+    "manufacturer": "Various Indian exporters (soft tadalafil SKUs)",
+    "genericName": "Tadalafil",
+    "activeIngredients": [
+      "tadalafil"
+    ],
+    "typicalPackSize": "10 soft/chewable tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Soft/chewable-style tadalafil brand pattern used in export ED catalogs.",
+    "storage": "Store below 30°C; protect from moisture.",
+    "confidence": "low",
+    "sources": [
+      "export catalog compositions",
+      "pharmacy wholesale listings"
+    ]
+  },
+  "tadora": {
+    "manufacturer": "Various / not consistently attributed",
+    "genericName": "Tadalafil",
+    "activeIngredients": [
+      "tadalafil"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Tadalafil tablet brand pattern appearing in Indian export ED assortments.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog generic mapping (tadalafil)"
+    ]
+  },
+  "tadalee": {
+    "manufacturer": "Various / not consistently attributed",
+    "genericName": "Tadalafil",
+    "activeIngredients": [
+      "tadalafil"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Export tadalafil brand variant listed alongside other Cialis-analogue families.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog generic mapping (tadalafil)"
+    ]
+  },
+  "tadavar": {
+    "manufacturer": "Various / not consistently attributed",
+    "genericName": "Tadalafil",
+    "activeIngredients": [
+      "tadalafil"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Tadalafil tablet brand used in export sexual-health catalogs.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog generic mapping (tadalafil)"
+    ]
+  },
+  "vilitra": {
+    "manufacturer": "Centurion Laboratories Pvt. Ltd. (also attributed to Sunrise in some listings)",
+    "genericName": "Vardenafil",
+    "activeIngredients": [
+      "vardenafil"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Vardenafil tablets for erectile dysfunction; common Centurion/Fortune catalog brand.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://fortunehealthcareproduct.com/wp-content/uploads/2024/10/ED-Products.pdf",
+      "https://www.centurionlaboratories.com/"
+    ]
+  },
+  "snovitra": {
+    "manufacturer": "Centurion Remedies / related exporters (listings vary)",
+    "genericName": "Vardenafil (combo SKUs include dapoxetine)",
+    "activeIngredients": [
+      "vardenafil"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Vardenafil brand family including strong/XL and Super Power (vardenafil + dapoxetine) variants.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "https://www.careclubpharmacy.com/mens-health.html",
+      "catalog compositions"
+    ]
+  },
+  "valif": {
+    "manufacturer": "Ajanta Pharma Ltd.",
+    "genericName": "Vardenafil",
+    "activeIngredients": [
+      "vardenafil"
+    ],
+    "typicalPackSize": "4–10 tablets / oral jelly sachets",
+    "prescriptionRequired": true,
+    "shortDescription": "Ajanta vardenafil brand for erectile dysfunction in tablet and jelly formats.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "exporter listings (Ajanta/Valif)",
+      "Ajanta ED portfolio references"
+    ]
+  },
+  "apcalis": {
+    "manufacturer": "Ajanta Pharma Ltd.",
+    "genericName": "Tadalafil",
+    "activeIngredients": [
+      "tadalafil"
+    ],
+    "typicalPackSize": "Oral jelly 7x5 g sachets (also tablets)",
+    "prescriptionRequired": true,
+    "shortDescription": "Ajanta tadalafil brand best known as Apcalis SX oral jelly for erectile dysfunction.",
+    "storage": "Store below 30°C; keep sachets sealed.",
+    "sources": [
+      "https://www.careclubpharmacy.com/mens-health.html",
+      "Ajanta ED portfolio references"
+    ]
+  },
+  "avana": {
+    "manufacturer": "Sunrise Remedies Pvt. Ltd.",
+    "genericName": "Avanafil",
+    "activeIngredients": [
+      "avanafil"
+    ],
+    "typicalPackSize": "4 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Sunrise avanafil tablets for erectile dysfunction; faster-onset PDE5 option in export ranges.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.fonopharma.com/erectile-dysfunction-medicine.html",
+      "Sunrise product listings"
+    ]
+  },
+  "cobra": {
+    "manufacturer": "Signature Phytochemical Industries (Cobra Vega listings)",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "5 tablets (extra-strength packs common)",
+    "prescriptionRequired": true,
+    "shortDescription": "Sildenafil brand often sold as Cobra/Cobra Vega Extra in export ED assortments.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "https://www.get-a-med.com/erectile-dysfunction-medicine.html"
+    ]
+  },
+  "careforce": {
+    "manufacturer": "Centurion Laboratories / related exporters (listings vary)",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Sildenafil tablet brand appearing in Centurion-linked export ED catalogs.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "exporter listings",
+      "catalog compositions"
+    ]
+  },
+  "maxgun": {
+    "manufacturer": "Various / Centurion-linked exporters (uncertain)",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Export sildenafil brand for erectile dysfunction with limited manufacturer documentation.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (sildenafil)"
+    ]
+  },
+  "leeforce": {
+    "manufacturer": "Ventures Pvt. Ltd. (wholesale listings)",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Sildenafil tablet brand sold through Indian wholesale/export channels.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "https://www.trionepharma.com/erectile-dysfunction-products.html"
+    ]
+  },
+  "vigore": {
+    "manufacturer": "Zydus Healthcare / Cadila (Vigora/Vigore family)",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Zydus/Cadila sildenafil brand (Vigora/Vigore) for erectile dysfunction in Indian pharmacy channels.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://wirelesslifesciences.org/2025/08/best-viagra-sildenafil-tablet-brands-in-india-2025-guide/",
+      "1mg/pharmacy listings"
+    ]
+  },
+  "sexforce": {
+    "manufacturer": "Various / not consistently attributed",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4–10 tablets / oral jelly sachets",
+    "prescriptionRequired": true,
+    "shortDescription": "Sildenafil brand pattern (tablets and oral jelly) used in export sexual-health catalogs.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (sildenafil)"
+    ]
+  },
+  "ayurmax": {
+    "manufacturer": "Various / not consistently attributed",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Sildenafil tablet brand listed in Indian export ED assortments; manufacturer attribution is weak.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (sildenafil)"
+    ]
+  },
+  "ladygra": {
+    "manufacturer": "RSM Enterprises (Ladygara/Ladygra listings)",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Sildenafil tablets marketed toward female sexual arousal concerns in export catalogs.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "https://www.trionepharma.com/erectile-dysfunction-products.html"
+    ]
+  },
+  "lovegra": {
+    "manufacturer": "Ajanta Pharma Ltd.",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4 tablets / oral jelly sachets",
+    "prescriptionRequired": true,
+    "shortDescription": "Ajanta sildenafil brand positioned for female sexual dysfunction support as tablets or jelly.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.trionepharma.com/erectile-dysfunction-products.html",
+      "https://www.fonopharma.com/erectile-dysfunction-medicine.html"
+    ]
+  },
+  "femalegra": {
+    "manufacturer": "Sunrise Remedies Pvt. Ltd.",
+    "genericName": "Sildenafil citrate",
+    "activeIngredients": [
+      "sildenafil citrate"
+    ],
+    "typicalPackSize": "4 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Sunrise sildenafil brand marketed for women in export sexual-health ranges.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.fonopharma.com/erectile-dysfunction-medicine.html"
+    ]
+  },
+  "aspadol": {
+    "manufacturer": "HAB Pharmaceuticals & Research Ltd. / Signature Phytochemical Industries",
+    "genericName": "Tapentadol",
+    "activeIngredients": [
+      "tapentadol hydrochloride"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Tapentadol opioid analgesic tablets for moderate to severe pain; controlled in many jurisdictions.",
+    "storage": "Store below 30°C; protect from light and moisture.",
+    "sources": [
+      "https://veaimpex.co.in/product/aspadol-tab/",
+      "https://habpharma.com/"
+    ]
+  },
+  "tapal": {
+    "manufacturer": "MSN Laboratories Pvt. Ltd.",
+    "genericName": "Tapentadol",
+    "activeIngredients": [
+      "tapentadol hydrochloride"
+    ],
+    "typicalPackSize": "Blister of 10 or 15 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "MSN Labs tapentadol tablets (including ER SKUs) for moderate to severe pain.",
+    "storage": "Store below 30°C; protected from light and moisture.",
+    "sources": [
+      "https://www.msnlabs.com/img/RxList/PrescribinginformationofTAPAL.pdf",
+      "https://www.msnlabs.com/img/RxList/PrescribinginformationofTapalKothur.pdf"
+    ]
+  },
+  "typentadol": {
+    "manufacturer": "Various Indian exporters (generic tapentadol labeling)",
+    "genericName": "Tapentadol",
+    "activeIngredients": [
+      "tapentadol hydrochloride"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Export-style tapentadol brand/label for opioid pain relief; exact marketer varies by batch.",
+    "storage": "Store below 30°C; protect from light and moisture.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (tapentadol)",
+      "MSN Tapal PI for class storage"
+    ]
+  },
+  "signatret": {
+    "manufacturer": "HAB Pharmaceuticals & Research Ltd. (Signature/G.HAB markings)",
+    "genericName": "Isotretinoin",
+    "activeIngredients": [
+      "isotretinoin"
+    ],
+    "typicalPackSize": "10 softgel capsules",
+    "prescriptionRequired": true,
+    "shortDescription": "Oral isotretinoin softgels for severe acne requiring specialist supervision.",
+    "storage": "Store below 25°C; protect from light and moisture.",
+    "sources": [
+      "https://www.1mg.com/drugs/signatret-20-softgel-capsule-689498",
+      "https://farmako.ai/medicine/signatret-20-softgel-capsule-464305/"
+    ]
+  },
+  "accufine": {
+    "manufacturer": "HAB Pharmaceuticals / Signature (export listings)",
+    "genericName": "Isotretinoin",
+    "activeIngredients": [
+      "isotretinoin"
+    ],
+    "typicalPackSize": "10 softgel capsules",
+    "prescriptionRequired": true,
+    "shortDescription": "Isotretinoin softgel brand used for severe nodular acne under medical supervision.",
+    "storage": "Store below 25°C; protect from light.",
+    "sources": [
+      "https://www.globemedsoverseas.com/pain-killers.html",
+      "HAB/Signature product listings"
+    ]
+  },
+  "gabasign": {
+    "manufacturer": "HAB Pharmaceuticals / Signature Phytochemical Industries",
+    "genericName": "Gabapentin",
+    "activeIngredients": [
+      "gabapentin"
+    ],
+    "typicalPackSize": "10 capsules/tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Gabapentin capsules/tablets for neuropathic pain and as adjunctive seizure therapy.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://habpharma.com/",
+      "https://www.globemedsoverseas.com/pain-killers.html"
+    ]
+  },
+  "nervigesic": {
+    "manufacturer": "HAB Pharmaceuticals & Research Ltd.",
+    "genericName": "Pregabalin",
+    "activeIngredients": [
+      "pregabalin"
+    ],
+    "typicalPackSize": "15 capsules (also 10s)",
+    "prescriptionRequired": true,
+    "shortDescription": "Pregabalin capsules for neuropathic pain, partial seizures, and related indications.",
+    "storage": "Store below 30°C in a dry place.",
+    "sources": [
+      "https://www.platinumrx.in/medicines/nervigesic-75mg-capsule-15-capsules-capsule-hab-pharmaceuticals-and-research-ltd/1416061",
+      "https://habpharma.com/"
+    ]
+  },
+  "zopisign/zop/zopicone": {
+    "manufacturer": "HAB Pharmaceuticals & Research Ltd.",
+    "genericName": "Zopiclone",
+    "activeIngredients": [
+      "zopiclone"
+    ],
+    "typicalPackSize": "10–14 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Zopiclone hypnotic tablets for short-term insomnia (Zopisign/ZOP/Zopicone labeling variants).",
+    "storage": "Store below 30°C; protect from moisture.",
+    "sources": [
+      "https://habpharma.com/product-details/central-nervous-system/zopisign-10-tab/518",
+      "https://www.1mg.com/drugs/zopisign-10mg-tablet-689623"
+    ]
+  },
+  "nalsign": {
+    "manufacturer": "HAB Pharmaceuticals & Research Ltd. / Signature",
+    "genericName": "Naltrexone hydrochloride",
+    "activeIngredients": [
+      "naltrexone hydrochloride"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Naltrexone tablets used in alcohol and opioid dependence management programs.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.dropshipperindia.com/anti-smoking-anti-alcoholic-drugs.html",
+      "https://habpharma.com/"
+    ]
+  },
+  "healpecia/prosteride": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd. (Healpecia); Prosteride marketer varies",
+    "genericName": "Finasteride",
+    "activeIngredients": [
+      "finasteride"
+    ],
+    "typicalPackSize": "10 tablets (10x10 boxes common)",
+    "prescriptionRequired": true,
+    "shortDescription": "Finasteride tablets for androgenetic alopecia (1 mg) or BPH (5 mg) depending on strength.",
+    "storage": "Store below 30°C; protect from moisture.",
+    "sources": [
+      "https://www.healingpharma.in/product/healpecia-5mg/",
+      "Healing Pharma export catalogue"
+    ]
+  },
+  "dulata": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd.",
+    "genericName": "Duloxetine",
+    "activeIngredients": [
+      "duloxetine"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Duloxetine SNRI capsules/tablets for depression, anxiety, and neuropathic pain indications.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "Healing Pharma product list 2020",
+      "https://www.mamtapharmacare.com/anti-depressants-medicines.html"
+    ]
+  },
+  "atomoxet/axepta": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd. (Atomoxet); Intas Pharmaceuticals Ltd. (Axepta)",
+    "genericName": "Atomoxetine",
+    "activeIngredients": [
+      "atomoxetine hydrochloride"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Atomoxetine ADHD therapy brands: export Atomoxet and domestic Intas Axepta.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.mamtapharmacare.com/anti-depressants-medicines.html",
+      "https://www.1mg.com/ (Axepta)"
+    ]
+  },
+  "artvigil/waklert": {
+    "manufacturer": "HAB Pharmaceuticals (Artvigil); Sun Pharmaceutical Industries Ltd. (Waklert)",
+    "genericName": "Armodafinil",
+    "activeIngredients": [
+      "armodafinil"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Armodafinil wakefulness agents for narcolepsy, OSA-related sleepiness, and shift-work disorder.",
+    "storage": "Store below 25–30°C.",
+    "sources": [
+      "https://habpharma.com/product-details/central-nervous-system/artvigil-150-tab/330",
+      "https://www.demegaformulations.in/narcolepsy-medicine.html"
+    ]
+  },
+  "modalert/modvigil/modactive": {
+    "manufacturer": "Sun Pharma (Modalert); HAB Pharma (Modvigil); Modactive marketer varies",
+    "genericName": "Modafinil",
+    "activeIngredients": [
+      "modafinil"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Modafinil wakefulness brands for narcolepsy and related excessive daytime sleepiness.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.demegaformulations.in/narcolepsy-medicine.html",
+      "https://habpharma.com/"
+    ]
+  },
+  "seroquit": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd.",
+    "genericName": "Quetiapine",
+    "activeIngredients": [
+      "quetiapine"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Quetiapine antipsychotic tablets used in schizophrenia and bipolar disorder care.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "Healing Pharma export catalogue",
+      "Healing Pharma product list 2020"
+    ]
+  },
+  "sertafine": {
+    "manufacturer": "Various / likely Healing Pharma or contract exporters",
+    "genericName": "Sertraline",
+    "activeIngredients": [
+      "sertraline hydrochloride"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Sertraline SSRI tablets for depression, OCD, panic, and related mood disorders.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (sertraline)",
+      "Healing Pharma Sertafine-adjacent listings"
+    ]
+  },
+  "cotrip": {
+    "manufacturer": "Various Indian exporters",
+    "genericName": "Amitriptyline hydrochloride",
+    "activeIngredients": [
+      "amitriptyline hydrochloride"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Amitriptyline TCA tablets used for depression and neuropathic pain adjunct therapy.",
+    "storage": "Store below 30°C; protect from light.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (amitriptyline)"
+    ]
+  },
+  "pain-o-soma/prosoma": {
+    "manufacturer": "HAB Pharmaceuticals & Research Ltd. / Signature Phytochemical Industries",
+    "genericName": "Carisoprodol",
+    "activeIngredients": [
+      "carisoprodol"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Carisoprodol muscle-relaxant tablets for short-term acute musculoskeletal pain; controlled in many countries.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.signaturepi.co.in/musculo-skeletal-disorder.html",
+      "https://www.quickcompany.in/trademarks/1680715-painosoma"
+    ]
+  },
+  "azitop/azeetop/azisign": {
+    "manufacturer": "HAB/Signature family (Azisign); Azitop/Azeetop exporters vary",
+    "genericName": "Azithromycin",
+    "activeIngredients": [
+      "azithromycin"
+    ],
+    "typicalPackSize": "3–6 tablets (250/500 mg packs)",
+    "prescriptionRequired": true,
+    "shortDescription": "Azithromycin macrolide antibiotic brand cluster for susceptible bacterial infections.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (azithromycin)",
+      "HAB/Signature antibiotic listings"
+    ]
+  },
+  "zoviclovir/zovirax/acivir": {
+    "manufacturer": "Zoviclovir: various exporters; Zovirax: GSK; Acivir: Cipla Ltd.",
+    "genericName": "Aciclovir (acyclovir)",
+    "activeIngredients": [
+      "aciclovir"
+    ],
+    "typicalPackSize": "Tablets 5–10s; cream tubes ~5 g",
+    "prescriptionRequired": true,
+    "shortDescription": "Aciclovir antiviral family for herpes simplex/zoster: export Zoviclovir plus branded Zovirax and Cipla Acivir.",
+    "storage": "Store below 25–30°C; protect from moisture.",
+    "sources": [
+      "https://www.1mg.com/drugs/zovirax-400-tablet-118434",
+      "https://www.apollopharmacy.in/medicine/acivir-5-cream-5gm",
+      "catalog (Zoviclovir)"
+    ]
+  },
+  "valclovir/centrex": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd. (Valclovir); Centrex marketer varies",
+    "genericName": "Valaciclovir (valacyclovir)",
+    "activeIngredients": [
+      "valaciclovir"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Valaciclovir tablets for herpesvirus infections; Valclovir is a Healing Pharma export brand.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "Healing Pharma export catalogue (Valclovir 500/1000)",
+      "catalog compositions"
+    ]
+  },
+  "iverheal/emectin/ivervid": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd. (Iverheal); Emectin/Ivervid exporters vary",
+    "genericName": "Ivermectin",
+    "activeIngredients": [
+      "ivermectin"
+    ],
+    "typicalPackSize": "10 tablets (3/6/12 mg strengths)",
+    "prescriptionRequired": true,
+    "shortDescription": "Ivermectin antiparasitic tablets for certain roundworm and related infections.",
+    "storage": "Store at 15–25°C where labeled; protect from light.",
+    "sources": [
+      "https://www.healingpharmaindia.in/pharmaceutical-tablet.html",
+      "Healing Pharma export catalogue"
+    ]
+  },
+  "clofi/fertogard/clomisign": {
+    "manufacturer": "Healing Pharma (Fertogard); Signature (Clomisign); Clofi varies",
+    "genericName": "Clomifene citrate",
+    "activeIngredients": [
+      "clomifene citrate"
+    ],
+    "typicalPackSize": "10 tablets (often 3x10)",
+    "prescriptionRequired": true,
+    "shortDescription": "Clomifene citrate ovulation-induction tablets used in female infertility protocols.",
+    "storage": "Store below 30°C; protect from light.",
+    "sources": [
+      "Healing Pharma export catalogue (Fertogard)",
+      "https://www.skyimpexint.com/ed-medicine.html"
+    ]
+  },
+  "letroheal": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd.",
+    "genericName": "Letrozole",
+    "activeIngredients": [
+      "letrozole"
+    ],
+    "typicalPackSize": "10 tablets (often 3x10)",
+    "prescriptionRequired": true,
+    "shortDescription": "Letrozole aromatase-inhibitor tablets used in hormone-receptor-positive breast cancer care and fertility protocols.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.healingpharmaindia.in/pharmaceutical-tablet.html",
+      "Healing Pharma product list"
+    ]
+  },
+  "tamodex/tamilong/tamoxilon": {
+    "manufacturer": "Healing Pharma / various exporters (tamoxifen brands)",
+    "genericName": "Tamoxifen",
+    "activeIngredients": [
+      "tamoxifen"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Tamoxifen SERM tablets used in hormone-responsive breast cancer treatment and risk reduction.",
+    "storage": "Store below 30°C; protect from light.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (tamoxifen)",
+      "Healing Pharma oncology-adjacent lists"
+    ]
+  },
+  "healtroxin": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd.",
+    "genericName": "Levothyroxine sodium (thyroxine)",
+    "activeIngredients": [
+      "thyroxine sodium"
+    ],
+    "typicalPackSize": "Bottle/strip packs (commonly 100–120 tablets)",
+    "prescriptionRequired": true,
+    "shortDescription": "Thyroxine sodium tablets for hypothyroidism and TSH suppression as prescribed.",
+    "storage": "Store in a cool, dry place; protect from light and moisture.",
+    "sources": [
+      "Healing Pharma product list 2020 (Healtroxin strengths)"
+    ]
+  },
+  "glycoheal/metfor": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd. (Glycoheal); Metfor varies",
+    "genericName": "Metformin hydrochloride",
+    "activeIngredients": [
+      "metformin hydrochloride"
+    ],
+    "typicalPackSize": "10–20 tablets (SR packs common)",
+    "prescriptionRequired": true,
+    "shortDescription": "Metformin antidiabetic tablets/SR forms for type 2 diabetes management.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "Healing Pharma export catalogue (Glycoheal)",
+      "Healing Pharma product list 2020"
+    ]
+  },
+  "predniheal/omnacortil/ventocortil": {
+    "manufacturer": "Healing Pharma (Predniheal); Macleods (Omnacortil); Ventocortil varies",
+    "genericName": "Prednisolone",
+    "activeIngredients": [
+      "prednisolone"
+    ],
+    "typicalPackSize": "10 tablets (DT packs for Omnacortil)",
+    "prescriptionRequired": true,
+    "shortDescription": "Prednisolone corticosteroid tablets for inflammatory, allergic, and autoimmune conditions.",
+    "storage": "Store below 30°C; protect from moisture.",
+    "sources": [
+      "Healing Pharma export catalogue",
+      "https://www.1mg.com/drugs/omnacortil-40-tablet-dt-152910"
+    ]
+  },
+  "p-nolol": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd.",
+    "genericName": "Propranolol",
+    "activeIngredients": [
+      "propranolol"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Propranolol beta-blocker tablets for hypertension, arrhythmia, migraine prophylaxis, and related uses.",
+    "storage": "Store below 30°C; protect from light.",
+    "sources": [
+      "Healing Pharma export catalogue (P-Nolol 10/20/40/80)"
+    ]
+  },
+  "frasix/lasix/frusenex": {
+    "manufacturer": "Healing Pharma (Frasix); Sanofi (Lasix); Frusenex commonly Sanofi/local generics",
+    "genericName": "Furosemide (frusemide)",
+    "activeIngredients": [
+      "furosemide"
+    ],
+    "typicalPackSize": "10–15 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Loop-diuretic furosemide tablets for edema and hypertension as directed by a clinician.",
+    "storage": "Store below 30°C; protect from light.",
+    "sources": [
+      "Healing Pharma export catalogue (Frasix)",
+      "https://www.1mg.com/drugs/lasix-40mg-tablet-338859",
+      "https://www.apollopharmacy.in/medicine/frusenex-100mg-tablet-10-s"
+    ]
+  },
+  "dolo/paracip/leemol": {
+    "manufacturer": "Micro Labs (DOLO); Cipla (Paracip); Leemol varies",
+    "genericName": "Paracetamol (acetaminophen)",
+    "activeIngredients": [
+      "paracetamol"
+    ],
+    "typicalPackSize": "10–15 tablets",
+    "prescriptionRequired": false,
+    "shortDescription": "Paracetamol analgesic/antipyretic brands for mild to moderate pain and fever; clear OTC class in India.",
+    "storage": "Store below 30°C in a dry place.",
+    "sources": [
+      "https://www.ciplahealth.in/brand/paracip",
+      "Micro Labs DOLO brand references",
+      "https://www.1mg.com/drugs/dolo-650-tablet-74467"
+    ]
+  },
+  "asthalin": {
+    "manufacturer": "Cipla Ltd.",
+    "genericName": "Salbutamol (albuterol)",
+    "activeIngredients": [
+      "salbutamol sulphate"
+    ],
+    "typicalPackSize": "Inhaler 200 MD; tablets in 10s; respules multipacks",
+    "prescriptionRequired": true,
+    "shortDescription": "Cipla salbutamol bronchodilator for asthma/COPD symptom relief as inhaler, tablets, or nebules.",
+    "storage": "Store inhalers below 30°C; do not freeze respules.",
+    "sources": [
+      "https://www.1mg.com/drugs/asthalin-100mcg-inhaler-63967",
+      "Cipla/Asthalin pharmacy listings"
+    ]
+  },
+  "budecort": {
+    "manufacturer": "Cipla Ltd.",
+    "genericName": "Budesonide",
+    "activeIngredients": [
+      "budesonide"
+    ],
+    "typicalPackSize": "Inhaler 200 MD; respules 5x2 ml packs",
+    "prescriptionRequired": true,
+    "shortDescription": "Cipla inhaled budesonide corticosteroid for asthma maintenance (not for acute rescue alone).",
+    "storage": "Store below 30°C; protect respules from freezing/light as labeled.",
+    "sources": [
+      "https://www.1mg.com/drugs/budecort-1mg-respules-2ml-each-1007503",
+      "https://www.practo.com/medicine-info/budecort-1-mg-respules-22864"
+    ]
+  },
+  "careprost/super lash": {
+    "manufacturer": "Sun Pharmaceutical Industries Ltd. (Careprost); Super Lash exporters vary",
+    "genericName": "Bimatoprost ophthalmic solution",
+    "activeIngredients": [
+      "bimatoprost"
+    ],
+    "typicalPackSize": "3 ml dropper bottle",
+    "prescriptionRequired": true,
+    "shortDescription": "Bimatoprost eye drops for elevated intraocular pressure; also used cosmetically for eyelash growth under advice.",
+    "storage": "Store below 25–30°C; discard after labeled in-use period.",
+    "sources": [
+      "https://www.1mg.com/drugs/careprost-eye-drop-198677",
+      "catalog (Super Lash bimatoprost)"
+    ]
+  },
+  "cernos/testoheal/sustanon": {
+    "manufacturer": "Sun Pharma (Cernos); Healing Pharma (Testoheal); Aspen/Organon (Sustanon)",
+    "genericName": "Testosterone (gel/undecanoate/ester blend)",
+    "activeIngredients": [
+      "testosterone"
+    ],
+    "typicalPackSize": "Cernos gel 5 g sachets (box of 14); Testoheal softgels 10s; Sustanon 1 ml ampoule",
+    "prescriptionRequired": true,
+    "shortDescription": "Testosterone hormone-replacement products: topical gel, oral undecanoate softgels, and Sustanon injectable esters.",
+    "storage": "Gel/softgels: room temperature, dry; injection per ampoule label (often below 30°C).",
+    "sources": [
+      "https://www.1mg.com/drugs/cernos-gel-145941",
+      "Healing Pharma Testoheal listings",
+      "https://www.1mg.com/drugs/sustanon-250-injection-145953"
+    ]
+  },
+  "orligal": {
+    "manufacturer": "Intas Pharmaceuticals Ltd. / Avience-associated listings",
+    "genericName": "Orlistat",
+    "activeIngredients": [
+      "orlistat"
+    ],
+    "typicalPackSize": "10 capsules",
+    "prescriptionRequired": true,
+    "shortDescription": "Orlistat lipase-inhibitor capsules used as an adjunct in weight management programs.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://aviencepharma.com/orligal/",
+      "https://www.apollopharmacy.in/medicine/orligal-120mg-capsule-10-s"
+    ]
+  },
+  "rizatrax/sumitop": {
+    "manufacturer": "HAB Pharma (Rizatrax); Healing Pharma (Sumitop)",
+    "genericName": "Rizatriptan / sumatriptan",
+    "activeIngredients": [
+      "rizatriptan",
+      "sumatriptan"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Triptan antimigraine brands: Rizatrax (rizatriptan) and Sumitop (sumatriptan) for acute migraine attacks.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://habpharma.com/",
+      "Healing Pharma export catalogue (Sumitop)"
+    ]
+  },
+  "topnite/zunestar": {
+    "manufacturer": "Various exporters (Topnite); HAB Pharma (Zunestar)",
+    "genericName": "Eszopiclone",
+    "activeIngredients": [
+      "eszopiclone"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Eszopiclone hypnotic tablets for insomnia (Topnite and HAB Zunestar listings).",
+    "storage": "Store below 25–30°C.",
+    "sources": [
+      "catalog (Topnite eszopiclone)",
+      "https://habpharma.com/product-details/central-nervous-system/zopisign-10-tab/518"
+    ]
+  },
+  "afferrox xr": {
+    "manufacturer": "Various Indian exporters",
+    "genericName": "Venlafaxine prolonged-release",
+    "activeIngredients": [
+      "venlafaxine"
+    ],
+    "typicalPackSize": "10 prolonged-release tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Venlafaxine XR SNRI tablets for depression and anxiety disorders.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (venlafaxine XR)"
+    ]
+  },
+  "escitalopram/lexaheal/citapad": {
+    "manufacturer": "Healing Pharma (Lexaheal); Citapad/generic escitalopram exporters vary",
+    "genericName": "Escitalopram",
+    "activeIngredients": [
+      "escitalopram"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Escitalopram SSRI tablets for depression and generalized anxiety disorder.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "Healing Pharma product list (Lexaheal)",
+      "catalog (Citapad)"
+    ]
+  },
+  "olanzap": {
+    "manufacturer": "Various Indian exporters",
+    "genericName": "Olanzapine",
+    "activeIngredients": [
+      "olanzapine"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Olanzapine atypical antipsychotic tablets for schizophrenia and bipolar disorder.",
+    "storage": "Store below 30°C; protect from light and moisture.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (olanzapine)"
+    ]
+  },
+  "tritin/flt": {
+    "manufacturer": "Various / American Remedies–adjacent fluoxetine exporters",
+    "genericName": "Fluoxetine",
+    "activeIngredients": [
+      "fluoxetine"
+    ],
+    "typicalPackSize": "10 capsules/tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Fluoxetine SSRI brands (Tritin and Flt label variants) for depression, OCD, and related conditions.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "source catalog (Tritin=fluoxetine; Flt=fluoxetine)",
+      "https://www.americanremedies.in/product/fluxican-20-capsules/"
+    ]
+  },
+  "cabgoline/dostiheal": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd. (Dostiheal); Cabgoline export label varies",
+    "genericName": "Cabergoline",
+    "activeIngredients": [
+      "cabergoline"
+    ],
+    "typicalPackSize": "4 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Cabergoline tablets for hyperprolactinemia and related prolactin disorders.",
+    "storage": "Store below 25–30°C; protect from light.",
+    "sources": [
+      "https://www.healingpharma.in/product/dostiheal-0-50mg/",
+      "Healing Pharma product list"
+    ]
+  },
+  "premarin/estraheal": {
+    "manufacturer": "Pfizer/Wyeth (Premarin); Healing Pharma (Estraheal)",
+    "genericName": "Conjugated estrogens / estradiol valerate",
+    "activeIngredients": [
+      "conjugated estrogens",
+      "estradiol valerate"
+    ],
+    "typicalPackSize": "Premarin 28 tablets; Estraheal often 28s",
+    "prescriptionRequired": true,
+    "shortDescription": "Estrogen HRT brands: Premarin conjugated estrogens and Estraheal estradiol valerate tablets.",
+    "storage": "Store below 30°C; protect from moisture.",
+    "sources": [
+      "https://ndclist.com/ndc/0046-1104",
+      "Healing Pharma product list (Estraheal)",
+      "https://www.1mg.com/drugs/premarin-0-625mg-tablet-153027"
+    ]
+  },
+  "fungicyte/fluconaz": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd. (Fluconaz); Fungicyte exporters vary",
+    "genericName": "Fluconazole",
+    "activeIngredients": [
+      "fluconazole"
+    ],
+    "typicalPackSize": "1–4 tablets (150 mg single-dose packs common)",
+    "prescriptionRequired": true,
+    "shortDescription": "Fluconazole antifungal tablets for candidiasis and other susceptible fungal infections.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "Healing Pharma export catalogue (Fluconaz)",
+      "catalog (Fungicyte)"
+    ]
+  },
+  "phalexin": {
+    "manufacturer": "Various Indian exporters",
+    "genericName": "Cefalexin (cephalexin)",
+    "activeIngredients": [
+      "cefalexin"
+    ],
+    "typicalPackSize": "10 capsules",
+    "prescriptionRequired": true,
+    "shortDescription": "Cefalexin antibiotic capsules for susceptible Gram-positive and some Gram-negative infections.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (cephalexin)"
+    ]
+  },
+  "tetracin": {
+    "manufacturer": "Various Indian exporters",
+    "genericName": "Tetracycline hydrochloride",
+    "activeIngredients": [
+      "tetracycline hydrochloride"
+    ],
+    "typicalPackSize": "10 capsules",
+    "prescriptionRequired": true,
+    "shortDescription": "Tetracycline antibiotic capsules for susceptible bacterial infections.",
+    "storage": "Store below 25°C; protect from light and moisture.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (tetracycline)"
+    ]
+  },
+  "metroga": {
+    "manufacturer": "Various Indian exporters",
+    "genericName": "Metronidazole",
+    "activeIngredients": [
+      "metronidazole"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Metronidazole antimicrobial tablets for anaerobic bacterial and protozoal infections.",
+    "storage": "Store below 30°C; protect from light.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (metronidazole)"
+    ]
+  },
+  "omeeforce": {
+    "manufacturer": "Various / Force-brand exporters",
+    "genericName": "Omeprazole",
+    "activeIngredients": [
+      "omeprazole"
+    ],
+    "typicalPackSize": "10 gastro-resistant capsules",
+    "prescriptionRequired": true,
+    "shortDescription": "Omeprazole PPI capsules for acid-related disorders such as GERD and peptic ulcer disease.",
+    "storage": "Store below 30°C; protect from moisture.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (omeprazole)"
+    ]
+  },
+  "baclosign/bacloheal/baclofen": {
+    "manufacturer": "HAB/Signature (Baclosign); Healing Pharma (Bacloheal)",
+    "genericName": "Baclofen",
+    "activeIngredients": [
+      "baclofen"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Baclofen muscle-relaxant tablets for spasticity associated with neurological conditions.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.healingpharma.in/product/bacloheal-25/",
+      "HAB/Signature listings"
+    ]
+  },
+  "tamsuhealn": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd. (Tamsuheal; catalog spelling Tamsuhealn)",
+    "genericName": "Tamsulosin hydrochloride",
+    "activeIngredients": [
+      "tamsulosin hydrochloride"
+    ],
+    "typicalPackSize": "10 modified-release capsules/tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Tamsulosin alpha-blocker for benign prostatic hyperplasia–related urinary symptoms.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "Healing Pharma export catalogue (Tamsuheal 0.4)"
+    ]
+  },
+  "anaridex": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd.",
+    "genericName": "Anastrozole",
+    "activeIngredients": [
+      "anastrozole"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Anastrozole aromatase-inhibitor tablets for hormone-receptor-positive breast cancer in postmenopausal women.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "Healing Pharma export catalogue (Anaridex 1 mg)"
+    ]
+  },
+  "raloxiheal": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd.",
+    "genericName": "Raloxifene",
+    "activeIngredients": [
+      "raloxifene"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Raloxifene SERM tablets for osteoporosis prevention/treatment and breast-cancer risk reduction in selected patients.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "Healing Pharma export catalogue (Raloxiheal 60)"
+    ]
+  },
+  "hq-star/hqcheal": {
+    "manufacturer": "Healing Pharma (Hqcheal); HQ-STAR exporters vary",
+    "genericName": "Hydroxychloroquine",
+    "activeIngredients": [
+      "hydroxychloroquine"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Hydroxychloroquine tablets for malaria and autoimmune conditions such as RA/SLE under specialist care.",
+    "storage": "Store below 30°C; protect from light.",
+    "confidence": "low",
+    "sources": [
+      "catalog (Hqcheal/HQ-STAR 200 mg)",
+      "Healing Pharma naming pattern"
+    ]
+  },
+  "ovidac/puretrig": {
+    "manufacturer": "Zydus Cadila (Ovidac); Puretrig exporters vary",
+    "genericName": "Human chorionic gonadotropin (hCG)",
+    "activeIngredients": [
+      "chorionic gonadotropin"
+    ],
+    "typicalPackSize": "Injection vial (e.g., 5000–10000 IU)",
+    "prescriptionRequired": true,
+    "shortDescription": "hCG injectable products used in fertility protocols and selected endocrine indications.",
+    "storage": "Refrigerate or store per vial label; protect from light.",
+    "sources": [
+      "pharmacy listings (Ovidac)",
+      "catalog (Puretrig)"
+    ]
+  },
+  "betablock": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd.",
+    "genericName": "Metoprolol succinate (ER listings)",
+    "activeIngredients": [
+      "metoprolol succinate"
+    ],
+    "typicalPackSize": "10 extended-release tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Metoprolol beta-blocker ER tablets for hypertension, angina, and heart-failure protocols as prescribed.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "Healing Pharma export catalogue (Betablock XL/CL)"
+    ]
+  },
+  "reactin": {
+    "manufacturer": "Cipla Ltd.",
+    "genericName": "Diclofenac",
+    "activeIngredients": [
+      "diclofenac"
+    ],
+    "typicalPackSize": "10 SR tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Cipla diclofenac NSAID brand (including Reactin 100 SR) for pain and inflammation.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.ciplamed.com/product-index/reactin-100-sr-tablets"
+    ]
+  },
+  "hypnite": {
+    "manufacturer": "Consern Pharma Ltd.",
+    "genericName": "Eszopiclone",
+    "activeIngredients": [
+      "eszopiclone"
+    ],
+    "typicalPackSize": "10 tablets (5x10 packs)",
+    "prescriptionRequired": true,
+    "shortDescription": "Eszopiclone tablets for short-term treatment of insomnia.",
+    "storage": "Store below 25°C.",
+    "sources": [
+      "https://www.consernpharma.in/sedative-hypnotics-medicines.html",
+      "IndiaMART Hypnite listings"
+    ]
+  },
+  "tofisopam": {
+    "manufacturer": "Various (generic tofisopam exporters)",
+    "genericName": "Tofisopam",
+    "activeIngredients": [
+      "tofisopam"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Tofisopam anxiolytic tablets used for anxiety disorders where prescribed.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (tofisopam 50 mg)"
+    ]
+  },
+  "trazocan": {
+    "manufacturer": "Various Indian exporters",
+    "genericName": "Trazodone",
+    "activeIngredients": [
+      "trazodone"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Trazodone antidepressant tablets also used for sleep disturbance under medical advice.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (trazodone)"
+    ]
+  },
+  "flexabenz": {
+    "manufacturer": "Macleods Pharmaceuticals Ltd.",
+    "genericName": "Cyclobenzaprine",
+    "activeIngredients": [
+      "cyclobenzaprine"
+    ],
+    "typicalPackSize": "10 tablets (also ER capsules/topicals)",
+    "prescriptionRequired": true,
+    "shortDescription": "Macleods cyclobenzaprine brand for short-term relief of acute muscle spasm.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://pharmalist.in/brand/flexabenz",
+      "https://www.apollopharmacy.in/medicine/flexabenz-5mg-tablet-10-s"
+    ]
+  },
+  "clenbuterol/clenn-burn": {
+    "manufacturer": "Various exporters (Clenn-Burn labeling)",
+    "genericName": "Clenbuterol",
+    "activeIngredients": [
+      "clenbuterol"
+    ],
+    "typicalPackSize": "Varies (often 40 mcg tablets)",
+    "prescriptionRequired": true,
+    "shortDescription": "Clenbuterol beta-agonist tablets appearing in export catalogs; tightly restricted/controlled in many markets.",
+    "storage": "Store below 25–30°C; protect from light.",
+    "confidence": "low",
+    "sources": [
+      "catalog (Clenn-Burn/Clenbuterol)"
+    ]
+  },
+  "augmine/amoxyheal/zylomox": {
+    "manufacturer": "Healing Pharma (AMOXYHEAL); Augmine/Zylomox exporters vary",
+    "genericName": "Amoxicillin ± clavulanic acid (strength-dependent)",
+    "activeIngredients": [
+      "amoxicillin",
+      "clavulanic acid"
+    ],
+    "typicalPackSize": "6–10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Aminopenicillin antibiotic brands for susceptible bacterial infections; CV/1000 packs imply amox-clav.",
+    "storage": "Store below 25–30°C; protect reconstituted liquids as labeled.",
+    "confidence": "low",
+    "sources": [
+      "catalog (Augmine/AMOXYHEAL)",
+      "Healing Pharma antibiotic naming"
+    ]
+  },
+  "amlode": {
+    "manufacturer": "Unichem Laboratories Ltd.",
+    "genericName": "Amlodipine",
+    "activeIngredients": [
+      "amlodipine"
+    ],
+    "typicalPackSize": "15 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Unichem amlodipine calcium-channel blocker for hypertension and angina.",
+    "storage": "Store below 30°C; protect from light.",
+    "sources": [
+      "https://www.1mg.com/drugs/amlode-10-tablet-116750",
+      "https://www.apollopharmacy.in/medicine/amlode-10-tablet-15-s"
+    ]
+  },
+  "hypernil": {
+    "manufacturer": "Lupin Ltd.",
+    "genericName": "Lisinopril",
+    "activeIngredients": [
+      "lisinopril"
+    ],
+    "typicalPackSize": "15 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Lupin lisinopril ACE-inhibitor tablets for hypertension and heart failure.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.1mg.com/drugs/hypernil-5mg-tablet-269141"
+    ]
+  },
+  "esoprol": {
+    "manufacturer": "Various Indian exporters",
+    "genericName": "Esomeprazole (likely; 20 mg PPI pattern)",
+    "activeIngredients": [
+      "esomeprazole"
+    ],
+    "typicalPackSize": "10 capsules/tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "PPI brand pattern (Esoprol 20) used for acid-related disorders; confirm salt on pack label.",
+    "storage": "Store below 30°C; protect from moisture.",
+    "confidence": "low",
+    "sources": [
+      "catalog (Esoprol 20 mg)"
+    ]
+  },
+  "glimith": {
+    "manufacturer": "Various Indian exporters",
+    "genericName": "Glimepiride",
+    "activeIngredients": [
+      "glimepiride"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Glimepiride sulfonylurea tablets for type 2 diabetes as adjunct to diet and other agents.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog (Glimith 2 mg)"
+    ]
+  },
+  "walcephanse": {
+    "manufacturer": "Various / metformin export label",
+    "genericName": "Metformin hydrochloride",
+    "activeIngredients": [
+      "metformin hydrochloride"
+    ],
+    "typicalPackSize": "10–20 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Metformin tablet brand listed alongside Glycoheal/Metfor diabetes lines.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog compositions (metformin)"
+    ]
+  },
+  "celeheal": {
+    "manufacturer": "Healing Pharma India Pvt. Ltd.",
+    "genericName": "Celecoxib",
+    "activeIngredients": [
+      "celecoxib"
+    ],
+    "typicalPackSize": "10 capsules",
+    "prescriptionRequired": true,
+    "shortDescription": "Celecoxib COX-2 inhibitor NSAID capsules for osteoarthritis, rheumatoid arthritis, and acute pain.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "catalog (Celeheal)",
+      "Healing Pharma naming pattern"
+    ]
+  },
+  "cyproheptadine": {
+    "manufacturer": "Various (generic Cyproheptadine)",
+    "genericName": "Cyproheptadine",
+    "activeIngredients": [
+      "cyproheptadine"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Cyproheptadine antihistamine tablets used for allergy symptoms and appetite stimulation where indicated.",
+    "storage": "Store below 30°C; protect from light.",
+    "sources": [
+      "catalog (CYPROHEPTADINE 4 mg)",
+      "standard prescribing references"
+    ]
+  },
+  "ampicillin": {
+    "manufacturer": "Various (generic Ampicillin)",
+    "genericName": "Ampicillin",
+    "activeIngredients": [
+      "ampicillin"
+    ],
+    "typicalPackSize": "Capsules/injection packs vary",
+    "prescriptionRequired": true,
+    "shortDescription": "Ampicillin penicillin antibiotic for susceptible bacterial infections in oral or injectable forms.",
+    "storage": "Capsules below 25°C; injections per vial label.",
+    "confidence": "low",
+    "sources": [
+      "standard antibiotic references",
+      "catalog generic listing"
+    ]
+  },
+  "davlexin/cadiwin/cronotol": {
+    "manufacturer": "Various exporters",
+    "genericName": "Likely cephalosporin/cephalexin-class antibiotics (confirm on pack)",
+    "activeIngredients": [
+      "cefalexin"
+    ],
+    "typicalPackSize": "10 capsules (250 mg listings)",
+    "prescriptionRequired": true,
+    "shortDescription": "Antibiotic brand cluster at 250 mg strengths; treat as cephalexin-class unless pack states otherwise.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "catalog (Davlexin/Cadiwin/Cronotol 250 mg)"
+    ]
+  },
+  "begma": {
+    "manufacturer": "Alpha Pharmaceuticals (Super Begma listings) / various",
+    "genericName": "Sildenafil citrate + dapoxetine",
+    "activeIngredients": [
+      "sildenafil citrate",
+      "dapoxetine"
+    ],
+    "typicalPackSize": "5 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Combination ED/PE tablet brand (Super Begma) pairing sildenafil with dapoxetine.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "https://www.medsexporter.com/product/super-begma/"
+    ]
+  },
+  "fiban": {
+    "manufacturer": "Various / uncertain",
+    "genericName": "Likely fenofibrate (name pattern; confirm on pack)",
+    "activeIngredients": [
+      "fenofibrate"
+    ],
+    "typicalPackSize": "10 tablets/capsules",
+    "prescriptionRequired": true,
+    "shortDescription": "Lipid-modifying brand pattern consistent with fenofibrate; verify composition on the physical label.",
+    "storage": "Store below 30°C.",
+    "confidence": "low",
+    "sources": [
+      "brand-name inference only; confirm pack insert"
+    ]
+  },
+  "fluxican": {
+    "manufacturer": "American Remedies Healthcare Pvt. Ltd. / also listed under Healing Pharma for some SKUs",
+    "genericName": "Fluoxetine",
+    "activeIngredients": [
+      "fluoxetine"
+    ],
+    "typicalPackSize": "10–20 capsules",
+    "prescriptionRequired": true,
+    "shortDescription": "Fluoxetine SSRI capsules for depression, OCD, panic, and related disorders.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.americanremedies.in/product/fluxican-20-capsules/",
+      "https://www.indiamart.com/proddetail/fluoxetine-capsules-ip-20-mg-23494156762.html"
+    ]
+  },
+  "architol": {
+    "manufacturer": "Various / uncertain",
+    "genericName": "Likely atorvastatin (name pattern; confirm on pack)",
+    "activeIngredients": [
+      "atorvastatin"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Statin-style brand pattern consistent with atorvastatin for dyslipidemia; verify salt on pack.",
+    "storage": "Store below 30°C; protect from moisture.",
+    "confidence": "low",
+    "sources": [
+      "brand-name inference only; confirm pack insert"
+    ]
+  },
+  "rivasmart": {
+    "manufacturer": "Various / Healing Pharma–style *smart naming possible",
+    "genericName": "Likely rivastigmine (name pattern; confirm on pack)",
+    "activeIngredients": [
+      "rivastigmine"
+    ],
+    "typicalPackSize": "10 capsules",
+    "prescriptionRequired": true,
+    "shortDescription": "Cholinesterase-inhibitor brand pattern consistent with rivastigmine for dementia syndromes; verify label.",
+    "storage": "Store below 25–30°C.",
+    "confidence": "low",
+    "sources": [
+      "brand-name inference; Sun rivastigmine class references"
+    ]
+  },
+  "vominorm": {
+    "manufacturer": "Cipla Ltd.",
+    "genericName": "Metoclopramide",
+    "activeIngredients": [
+      "metoclopramide hydrochloride"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Cipla metoclopramide antiemetic/prokinetic tablets for nausea, vomiting, and gastroparesis symptoms.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://www.truemeds.in/medicine/vominorm-10-mg-tablet-10-tm-tacr1-043436",
+      "https://jantapharmacy.co.in/medicines/vominorm-vominorm"
+    ]
+  },
+  "walapan": {
+    "manufacturer": "Various / uncertain",
+    "genericName": "Likely pantoprazole (40 mg PPI pattern; confirm on pack)",
+    "activeIngredients": [
+      "pantoprazole"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Acid-suppression brand pattern at 40 mg consistent with pantoprazole; verify composition on pack.",
+    "storage": "Store below 30°C; protect from moisture.",
+    "confidence": "low",
+    "sources": [
+      "catalog (Walapan 40 mg)"
+    ]
+  },
+  "neuro-seliron": {
+    "manufacturer": "HAB Pharmaceuticals & Research Ltd.",
+    "genericName": "Pregabalin",
+    "activeIngredients": [
+      "pregabalin"
+    ],
+    "typicalPackSize": "10 capsules",
+    "prescriptionRequired": true,
+    "shortDescription": "HAB pregabalin capsules (Neuro-Seliron) for neuropathic pain and related CNS indications.",
+    "storage": "Store below 30°C.",
+    "sources": [
+      "https://habpharma.com/product-details/central-nervous-system/artvigil-150-tab/330"
+    ]
+  },
+  "emectin": {
+    "manufacturer": "Various exporters (often grouped with Iverheal)",
+    "genericName": "Ivermectin",
+    "activeIngredients": [
+      "ivermectin"
+    ],
+    "typicalPackSize": "10 tablets",
+    "prescriptionRequired": true,
+    "shortDescription": "Ivermectin antiparasitic tablet brand parallel to Iverheal/Ivervid export lines.",
+    "storage": "Store at controlled room temperature; protect from light.",
+    "confidence": "low",
+    "sources": [
+      "catalog (Emectin 12 mg ivermectin)",
+      "Healing Pharma Iverheal class references"
+    ]
+  }
+}

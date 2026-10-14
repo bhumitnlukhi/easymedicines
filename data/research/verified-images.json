@@ -1,0 +1,68 @@
+{
+  "asthalin-inhaler": {
+    "local": "/images/products/asthalin-inhaler.jpg",
+    "remote": "https://gdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/jS_WR5zmZa-asthalin_with_dose_counter_inhaler_200md_43199_0_2.jpg",
+    "source": "https://www.netmeds.com/product/asthalin-inhaler-200md-lui25w-8236682",
+    "bytes": 23534
+  },
+  "caverta-50": {
+    "local": "/images/products/caverta-50.jpg",
+    "remote": "https://gdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/yRkoCsMhbq-caverta_50mg_tablet_4s_31460_0_1.jpg",
+    "source": "https://www.netmeds.com/product/caverta-50mg-tablet-4s-lufud7-7510011",
+    "bytes": 55699
+  },
+  "caverta-25": {
+    "local": "/images/products/caverta-25.jpg",
+    "remote": "https://gdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/AFF2mNUpgm-caverta_25mg_tablet_4_s_0.jpg",
+    "source": "https://www.netmeds.com/product/caverta-25mg-tablet-4s-lui5r4-8311676",
+    "bytes": 11083
+  },
+  "omnacortil-10": {
+    "local": "/images/products/omnacortil-10.jpg",
+    "remote": "https://gdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/_sGKBmPqhy-omnacortil_10mg_tablet_10s_41812_0_2.jpg",
+    "source": "https://www.netmeds.com/product/omnacortil-10mg-tablet-10s-lui1vj-8230053",
+    "bytes": 35301
+  },
+  "waklert-150": {
+    "local": "/images/products/waklert-150.jpg",
+    "remote": "https://gdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/2eOo6iBlei-waklert_150mg_tablet_10_s_0.jpg",
+    "source": "https://www.netmeds.com/product/waklert-150mg-tablet-10s-luglx7-7815443",
+    "bytes": 40198
+  },
+  "waklert-250": {
+    "local": "/images/products/waklert-250.jpg",
+    "remote": "https://gdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/HSyKwlyOrx-noimage.jpg",
+    "source": "https://www.netmeds.com/product/waklert-250mg-tablet-5s-luge39-7887367",
+    "bytes": 4779
+  },
+  "axepta-60": {
+    "local": "/images/products/axepta-60.jpg",
+    "remote": "https://gdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/JBvUZKHRm7-axepta_60mg_tablet_10_s_0.jpg",
+    "source": "https://www.netmeds.com/product/axepta-60mg-tablet-10s-lugdsv-7719605",
+    "bytes": 33769
+  },
+  "cernos-gel": {
+    "local": "/images/products/cernos-gel.jpg",
+    "remote": "https://gdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/PVoYqYkutm-cernos_gel_5gm_35608_0_1.jpg",
+    "source": "https://www.netmeds.com/product/cernos-gel-5gm-lui2nc-8247846",
+    "bytes": 21330
+  },
+  "dolo-650": {
+    "local": "/images/products/dolo-650.jpg",
+    "remote": "https://gdn.pixelbin.io/v2/plain-cake-860195/netmed/wrkr/products/assets/item/free/original/M-aa2nqQ-y-dolo_650_tablet_15s_35281_0_3.jpg",
+    "source": "https://www.netmeds.com/product/dolo-650-tablet-15s-lui1wb-8231049",
+    "bytes": 71883
+  },
+  "tadacip-20": {
+    "local": "/images/products/tadacip-20.jpg",
+    "remote": "https://images.apollo247.in/pub/media/catalog/product/C/O/CON0041_2-JULY23_1.jpg",
+    "source": "apollo",
+    "bytes": 167404
+  },
+  "premarin": {
+    "local": "/images/products/premarin.jpg",
+    "remote": "https://images.apollo247.in/pub/media/catalog/product/P/R/PRE0263_1_1.jpg",
+    "source": "apollo",
+    "bytes": 147463
+  }
+}

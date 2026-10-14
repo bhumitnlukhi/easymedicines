@@ -1,0 +1,6 @@
+product_name,brand,mrp,price,category,dosage_form,pack_size,strength,prescription_required,generic_name
+"Paracetamol 500mg Tablets","Cipla Ltd",25.00,20.00,"Over the Counter (OTC)","Tablet","Strip of 10","500 mg","no","Paracetamol"
+"Azithromycin 500mg Tablets","Zydus",120.00,105.00,"Prescription Medicines","Tablet","Strip of 3","500 mg","yes","Azithromycin"
+"Vitamin D3 60K IU Capsules","Cadila",150.00,130.00,"Vitamins & Supplements","Capsule","Strip of 4","60,000 IU","no","Cholecalciferol"
+"Digital Thermometer Flexible Tip","Dr Morepen",350.00,280.00,"Healthcare Devices","Device","1 Unit","Oral/Axillary","no",""
+"Cotton Crepe Bandage 10cm","Dettol",180.00,160.00,"First Aid & Personal Care","Bandage","1 Roll","10cm x 4m","no",""
